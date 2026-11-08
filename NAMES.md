@@ -1080,3 +1080,118 @@ The engineers, bankers and prophets of the 1830s, who believed industry was a re
 - **Automobile-Club de l'Ascension**: a mobility club, after the motor clubs of the 1890s
 - **La Nature**: a science magazine, after the popular review
 - ⚠ *Eiffel*, *Michelin*, *Peugeot*, *Pathé*: real houses
+
+---
+
+## LXIX. The Hanseatic League
+
+- **Kontor**: a B2B marketplace, after the League's fortified trading posts
+- **Kogge Logistics**: after the cog, the Hanse's cargo ship
+- **Steelyard**: a commodities exchange, after the Hanse's London kontor
+- **Lübeck Law**: legal tech, after the town charter copied by a hundred cities
+- **Hansetag**: a founders' assembly, after the League's diet
+- **Bryggen**: warehousing, after the wharf at Bergen
+- **Vitalienbrüder**: a satirical newsletter, after the pirates who plagued the League
+
+---
+
+## LXX. The Dutch Golden Age
+
+- **Verenigde Gradient Compagnie (VGC)**: a holding company, after the first joint-stock company
+- **Beurs van het Licht**: an energy exchange, after the Amsterdam bourse of 1602
+- **Polder Works**: land reclamation and coastal engineering
+- **Fluyt**: logistics, after the cheap, efficient cargo ship that won the carrying trade
+- **Windmolen**: wind power
+- **Tulpenwoede**: a newsletter on bubbles, after tulip mania
+- **Stadhouder**: governance software
+- **Wisselbank**: payments, after the Amsterdam exchange bank
+
+---
+
+## LXXI. Renaissance engineers
+
+- **Cupola**: domes and large spans, after Brunelleschi's dome in Florence
+- **Opera del Gradiente**: a works board, after the Opera del Duomo that built it
+- **Taccola**: machine design, after the "Sienese Archimedes"
+- **Francesco di Giorgio**: fortification and military engineering
+- **Ramelli**: mechanisms, after the engineer of the book wheel
+- **Biringuccio**: metallurgy, after the author of the first printed book on the subject
+- **Arsenale**: shipyards and robotics
+- ⚠ *Leonardo*, *Medici*: crowded
+
+---
+
+## LXXII. The Islamic Golden Age
+
+- **Bayt al-Hikma**: a research lab, after the House of Wisdom in Baghdad
+- **Banu Musa Automata**: robotics, after the brothers' *Book of Ingenious Devices*
+- **Jazari Robotics**: after al-Jazari, whose water clocks and automata were the robots of the twelfth century
+- **Zij**: data tables, after the astronomical tables
+- **Qanat**: underground water infrastructure
+- **Muqarnas**: computational architecture
+- **Funduq**: travellers' hubs and coworking
+- **Diwan**: administration software
+
+---
+
+## LXXIII. The infrastructure of Rome
+
+- **Cursus Publicus**: delivery logistics, after the imperial relay post
+- **Annona**: food security, after the grain supply of Rome
+- **Opus Caementicium**: materials, after Roman concrete, which outlasts ours
+- **Aqua Claudia**: water infrastructure
+- **Via Appia Logistics**
+- **Pons**: bridges and connectors
+- **Hypocaust**: underfloor heating and heat pumps
+- **Horrea**: warehousing
+
+---
+
+## LXXIV. The Lunar Society and the English Enlightenment
+
+- **The Lunaticks**: a founders' dinner club, after the nickname of Watt, Boulton, Darwin and Wedgwood, who met at the full moon
+- **Soho Manufactory**: manufacturing, after Boulton's works
+- **Coalbrookdale**: a foundry, after the birthplace of cheap iron
+- **Iron Bridge**: infrastructure
+- **Etruria Works**: ceramics, after Wedgwood's factory
+- **Separate Condenser**: efficiency engineering, after Watt's improvement to the steam engine
+- **Spinning Mule**: textiles
+
+---
+
+## LXXV. The Gründerzeit (Germany, 1871–1873)
+
+The "founders' period": a boom of company formation, then a crash.
+
+- **Gründerzeit Capital**: a fund
+- **Zollverein**: a free-trade platform, after the customs union
+- **Werkbund**: a design studio, after the alliance of artists and industry
+- **Physikalisch-Technische Anstalt**: metrology
+- **Gründerkrach**: a newsletter on startup failures, after the crash of 1873
+- **Hütte**: metallurgy ("smelting works")
+- **Kraftzentrale**: power plants
+- ⚠ *Bauhaus*, *Kraftwerk*, *Siemens & Halske*: taken
+
+---
+
+## LXXVI. Meiji Japan
+
+- **Bunmei Kaika**: education, after the slogan "civilisation and enlightenment"
+- **Fukoku**: a sovereign fund, from *fukoku kyōhei*, "rich country, strong army"
+- **Rokumeikan**: a venue, after the hall where the new elite learned to waltz
+- **Iwakura**: a world tour for founders, after the mission that went abroad to learn everything
+- **Tomioka**: textile automation, after the model silk mill
+- **Oyatoi**: hiring foreign experts, after the specialists hired by the government
+- **Shokusan Kōgyō**: an industrial-policy newsletter ("encourage industry")
+
+---
+
+## LXXVII. The Ottoman Empire
+
+- **Tersane**: shipyards, after the imperial arsenal
+- **Vakıf**: a foundation, after the endowments that built cities
+- **Kervansaray**: logistics hubs, after the caravanserais
+- **Divan**: governance
+- **Lale Devri**: a cultural magazine, after the Tulip Era
+- **Müteferrika**: publishing, after the first Ottoman printer of books in Turkish
+- **Takiyüddin**: an observatory, after the astronomer whose observatory was torn down within three years: a warning

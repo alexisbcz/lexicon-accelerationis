@@ -1080,3 +1080,118 @@ Les ingénieurs, banquiers et prophètes des années 1830, qui tenaient l'indust
 - **Automobile-Club de l'Ascension** : club de mobilité, d'après les clubs automobiles des années 1890
 - **La Nature** : magazine scientifique, d'après la revue populaire
 - ⚠ *Eiffel*, *Michelin*, *Peugeot*, *Pathé* : maisons réelles
+
+---
+
+## LXIX. La Hanse
+
+- **Kontor** : place de marché interentreprises, d'après les comptoirs fortifiés de la Ligue
+- **Kogge Logistique** : d'après la cogue, le navire marchand de la Hanse
+- **Steelyard** : bourse de marchandises, d'après le comptoir londonien de la Hanse
+- **Droit de Lübeck** : technologies juridiques, d'après la charte copiée par cent villes
+- **Hansetag** : assemblée de fondateurs, d'après la diète de la Ligue
+- **Bryggen** : entreposage, d'après le quai de Bergen
+- **Vitalienbrüder** : lettre satirique, d'après les pirates qui harcelaient la Ligue
+
+---
+
+## LXX. Le Siècle d'or néerlandais
+
+- **Verenigde Gradient Compagnie (VGC)** : société holding, d'après la première société par actions
+- **Beurs van het Licht** : bourse de l'énergie, d'après la Bourse d'Amsterdam de 1602
+- **Polder Works** : poldérisation et génie côtier
+- **Flûte** : logistique, d'après le navire marchand bon marché et efficace qui conquit le commerce de fret
+- **Windmolen** : éolien
+- **Tulipomanie** : lettre sur les bulles, d'après la manie des tulipes
+- **Stathouder** : logiciel de gouvernance
+- **Wisselbank** : paiements, d'après la Banque d'Amsterdam
+
+---
+
+## LXXI. Les ingénieurs de la Renaissance
+
+- **Cupola** : coupoles et grandes portées, d'après le dôme de Brunelleschi à Florence
+- **Opera del Gradiente** : maîtrise d'ouvrage, d'après l'Opera del Duomo qui le fit bâtir
+- **Taccola** : conception de machines, d'après l'« Archimède siennois »
+- **Francesco di Giorgio** : fortification et génie militaire
+- **Ramelli** : mécanismes, d'après l'ingénieur de la roue à livres
+- **Biringuccio** : métallurgie, d'après l'auteur du premier livre imprimé sur la question
+- **Arsenale** : chantiers navals et robotique
+- ⚠ *Leonardo*, *Medici* : encombrés
+
+---
+
+## LXXII. L'âge d'or islamique
+
+- **Bayt al-Hikma** : laboratoire de recherche, d'après la Maison de la Sagesse de Bagdad
+- **Banu Musa Automates** : robotique, d'après le *Livre des procédés ingénieux* des trois frères
+- **Jazari Robotique** : d'après al-Jazari, dont les horloges hydrauliques et les automates furent les robots du XIIᵉ siècle
+- **Zij** : tables de données, d'après les tables astronomiques
+- **Qanat** : infrastructures hydrauliques souterraines
+- **Muqarnas** : architecture computationnelle
+- **Funduq** : relais de voyageurs et espaces de travail partagés
+- **Diwan** : logiciels d'administration
+
+---
+
+## LXXIII. Les infrastructures de Rome
+
+- **Cursus Publicus** : logistique de livraison, d'après la poste impériale à relais
+- **Annona** : sécurité alimentaire, d'après l'approvisionnement en blé de Rome
+- **Opus Caementicium** : matériaux, d'après le béton romain, qui dure plus que le nôtre
+- **Aqua Claudia** : infrastructures hydrauliques
+- **Via Appia Logistique**
+- **Pons** : ponts et connecteurs
+- **Hypocauste** : chauffage par le sol et pompes à chaleur
+- **Horrea** : entreposage
+
+---
+
+## LXXIV. La Lunar Society et les Lumières anglaises
+
+- **Les Lunatiques** : cercle de dîners de fondateurs, d'après le surnom de Watt, Boulton, Darwin et Wedgwood, qui se réunissaient à la pleine lune
+- **Soho Manufactory** : fabrication, d'après les ateliers de Boulton
+- **Coalbrookdale** : fonderie, d'après le berceau du fer bon marché
+- **Iron Bridge** : infrastructures
+- **Etruria Works** : céramique, d'après la manufacture de Wedgwood
+- **Condenseur Séparé** : ingénierie du rendement, d'après le perfectionnement que Watt apporta à la machine à vapeur
+- **Mule-Jenny** : textile
+
+---
+
+## LXXV. La Gründerzeit (Allemagne, 1871–1873)
+
+La « période des fondateurs » : une floraison de sociétés, puis un krach.
+
+- **Gründerzeit Capital** : un fonds
+- **Zollverein** : plateforme de libre-échange, d'après l'union douanière
+- **Werkbund** : studio de design, d'après l'alliance des artistes et de l'industrie
+- **Physikalisch-Technische Anstalt** : métrologie
+- **Gründerkrach** : lettre sur les échecs de startups, d'après le krach de 1873
+- **Hütte** : métallurgie (« fonderie »)
+- **Kraftzentrale** : centrales électriques
+- ⚠ *Bauhaus*, *Kraftwerk*, *Siemens & Halske* : pris
+
+---
+
+## LXXVI. Le Japon de Meiji
+
+- **Bunmei Kaika** : éducation, d'après le mot d'ordre « civilisation et lumières »
+- **Fukoku** : fonds souverain, de *fukoku kyōhei*, « pays riche, armée forte »
+- **Rokumeikan** : lieu d'événements, d'après le pavillon où la nouvelle élite apprit la valse
+- **Iwakura** : tour du monde pour fondateurs, d'après la mission partie à l'étranger tout apprendre
+- **Tomioka** : automatisation textile, d'après la filature de soie modèle
+- **Oyatoi** : recrutement d'experts étrangers, d'après les spécialistes engagés par le gouvernement
+- **Shokusan Kōgyō** : lettre de politique industrielle (« encourager l'industrie »)
+
+---
+
+## LXXVII. L'Empire ottoman
+
+- **Tersane** : chantiers navals, d'après l'arsenal impérial
+- **Vakıf** : fondation, d'après les fondations pieuses qui bâtirent des villes
+- **Kervansaray** : plateformes logistiques, d'après les caravansérails
+- **Divan** : gouvernance
+- **Lale Devri** : magazine culturel, d'après l'ère des Tulipes
+- **Müteferrika** : édition, d'après le premier imprimeur ottoman de livres en turc
+- **Takiyüddin** : un observatoire, d'après l'astronome dont l'observatoire fut rasé en trois ans : un avertissement

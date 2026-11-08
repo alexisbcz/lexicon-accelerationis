@@ -63,6 +63,14 @@
 \newcommand\la[1]{\textit{#1}}
 \newcommand\lbl[1]{\textit{#1}}
 
+% ---------- onomasticon ----------
+\newfontfamily\cjk{Noto Serif CJK JP}
+\newcommand\OnoHead[1]{\par\addvspace{6pt plus 2pt}{\centering\color{rubric}\scshape #1\par}\nopagebreak\vspace{2pt}}
+\newcommand\OnoSub[1]{\par\addvspace{2.5pt}\noindent{\bfseries\itshape #1}\par\nopagebreak}
+\newcommand\OnoItem[1]{\par\noindent\hangindent=1em\hangafter=1 #1\par}
+\newcommand\OnoPara[1]{\par\addvspace{1.5pt}\noindent #1\par}
+\newcommand\OnoNote[1]{\par\addvspace{2pt}\noindent{\itshape #1}\par}
+
 \newcommand\LetterHead[1]{%
   \par\penalty-200\vspace{3pt plus 2pt}%
   \begin{center}
@@ -98,7 +106,7 @@ par des Exemples tirés des Bâtisseurs, des Prophètes de malheur, \& de l'Agor
 \vspace{9mm}
 {\small\scshape On y a joint\\
 une Préface, une Table des Abréviations \& une Clef de la Prononciation ;\\
-\& à la fin, un Index des Racines.\par}
+\& à la fin, un Onomasticon des Noms \& un Index des Racines.\par}
 \vspace{12mm}
 {\color{rubric}\Large ❧\par}
 \vspace{10mm}
@@ -214,6 +222,19 @@ La prononciation est donnée entre crochets selon l'Alphabet phonétique interna
 \vspace{1mm}
 
 \input{body.tex}
+
+% ======================= ONOMASTICON =======================
+\clearpage
+\begin{center}
+{\dispfont\Large\scshape Onomasticon}\\[1pt]
+{\itshape\small ou Noms pour le monde accéléré : marques, médias, États \& institutions}\\[2pt]
+{\color{rubric}❧}
+\end{center}
+\InsertMark{dict}{Onomasticon}
+\begin{multicols}{2}
+\footnotesize\raggedright
+\input{onomasticon.tex}
+\end{multicols}
 
 % ======================= INDEX DES RACINES =======================
 \clearpage

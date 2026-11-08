@@ -63,6 +63,14 @@
 \newcommand\la[1]{\textit{#1}}                   % Latin/French etymon
 \newcommand\lbl[1]{\textit{#1}}                  % usage label
 
+% ---------- onomasticon ----------
+\newfontfamily\cjk{Noto Serif CJK JP}
+\newcommand\OnoHead[1]{\par\addvspace{6pt plus 2pt}{\centering\color{rubric}\scshape #1\par}\nopagebreak\vspace{2pt}}
+\newcommand\OnoSub[1]{\par\addvspace{2.5pt}\noindent{\bfseries\itshape #1}\par\nopagebreak}
+\newcommand\OnoItem[1]{\par\noindent\hangindent=1em\hangafter=1 #1\par}
+\newcommand\OnoPara[1]{\par\addvspace{1.5pt}\noindent #1\par}
+\newcommand\OnoNote[1]{\par\addvspace{2pt}\noindent{\itshape #1}\par}
+
 \newcommand\LetterHead[1]{%
   \par\penalty-200\vspace{3pt plus 2pt}%
   \begin{center}
@@ -98,7 +106,7 @@ by Examples from the Builders, the Doomers, and the Agora.\par}
 \vspace{9mm}
 {\small\scshape To which are prefixed\\
 a Preface, a Table of Abbreviations, \& a Key to Pronunciation;\\
-and subjoined, an Index of the Roots.\par}
+and subjoined, an Onomasticon of Names, \& an Index of the Roots.\par}
 \vspace{12mm}
 {\color{rubric}\Large ❧\par}
 \vspace{10mm}
@@ -212,6 +220,19 @@ Pronunciations are given between slashes in the International Phonetic Alphabet,
 \vspace{1mm}
 
 \input{body.tex}
+
+% ======================= ONOMASTICON =======================
+\clearpage
+\begin{center}
+{\dispfont\Large\scshape Onomasticon}\\[1pt]
+{\itshape\small or, Names for the Accelerated World: Brands, Media, Polities \& Institutions}\\[2pt]
+{\color{rubric}❧}
+\end{center}
+\InsertMark{dict}{Onomasticon}
+\begin{multicols}{2}
+\footnotesize\raggedright
+\input{onomasticon.tex}
+\end{multicols}
 
 % ======================= INDEX OF ROOTS =======================
 \clearpage

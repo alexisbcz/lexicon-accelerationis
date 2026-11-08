@@ -341,3 +341,170 @@ Devises :
 - **Institut Bathmos** : métriques civilisationnelles
 - **La Société évergétique** : bâtisseurs-philanthropes
 - ⚠ *Instituts Carnot* est un label de recherche français existant ; *Noosphere Ventures* existe ; *Prometheus*, *Turing*, *Shannon* et *Gradient* (Gradient Ventures) sont encombrés.
+
+---
+
+## XV. La forge d'Héphaïstos (robotique et matériel)
+
+Tirés des mythes des premiers automates et des premiers forgerons.
+
+- **Chryseai Robotics** : d'après les servantes d'or d'Héphaïstos, premières humanoïdes de la littérature
+- **Keledon** : IA vocale, d'après les automates chanteurs d'or de Delphes
+- **Tripod Autonomy** : d'après les trépieds du dieu, qui se mouvaient d'eux-mêmes ; premiers véhicules autonomes
+- **Telchine Foundry** : d'après les Telchines, premiers ouvriers du métal
+- **Kabeiri Works** : d'après les dieux forgerons de Samothrace ; usinage de précision
+- **Steropes Power** : d'après le Cyclope qui forgeait la foudre (« l'éclair »)
+- **Brontes Grid** : d'après son frère « le Tonnerre » ; lignes de transport
+- **Arges Photonics** : d'après le troisième Cyclope, « le Brillant » ; lasers
+- **Daidala** : robotique modulaire
+- ⚠ *Talos*, *Argo*, *Phaethon*, *Hyperion* : encombrés ou déjà pris
+
+---
+
+## XVI. L'alchimie et les arts hermétiques
+
+- **Athanor** : centres de calcul, d'après le fourneau de l'alchimiste qui ne s'éteint jamais
+- **Rubedo Bio** : l'œuvre au rouge, dernier stade du Grand Œuvre ; longévité
+- **Magnum Opus Capital**
+- **Azoth** : le dissolvant universel ; chimie des batteries
+- **Calcinatio** : recyclage des matériaux
+- **Quinta Essentia** : laboratoire de recherche
+- **Aurum Potabile** : boisson de longévité, à demi par plaisanterie
+- **Caput Mortuum** : lettre de veille sur les décels (« le résidu mort »)
+- **Nigredo** : l'hebdomadaire satirique
+
+Devises :
+- *Solve et coagula*
+- *Visita interiora terrae* : pour la géothermie
+
+---
+
+## XVII. Le calendrier républicain (marques françaises)
+
+Mois du calendrier de 1793, choisis selon le secteur.
+
+- **Thermidor Énergie** : « le mois de la chaleur » ; producteur d'électricité (l'ironie historique fait partie de la plaisanterie)
+- **Germinal Labs** : biotechnologies (« germination »)
+- **Floréal Bio** : biologie de synthèse (« floraison »)
+- **Messidor** : agritech (« moisson »)
+- **Brumaire Capital** : un fonds pour le temps long (« brume »)
+- **Fructidor** : technologies alimentaires (« fruits »)
+- **Ventôse** : éolien (« venteux »)
+- **Pluviôse** : eau et dessalement (« pluvieux »)
+- **Prairial** : terres et réensauvagement
+- **Vendémiaire** : robotique viticole
+
+---
+
+## XVIII. Ancien Régime et Grandes Écoles
+
+- **Manufacture Royale des Calculs** : calcul
+- **Compagnie Générale de l'Hyperergie** : énergéticien
+- **Société Anonyme des Forges de l'Archipyre** : fusion
+- **Crédit Kardashévien** : une banque
+- **Ponts et Gradients** : infrastructures, jeu de mots sur Ponts et Chaussées
+- **École Polytachnique** : école de fondateurs (calembour)
+- **Conservatoire des Arts et Machines** : musée et laboratoire de robotique
+- **Académie des Sciences Accélérées**
+- **Le Grand Œuvre** : société holding
+
+---
+
+## XIX. Les compagnies à charte de l'âge de la voile
+
+- **The East Gradient Company** : compagnie de commerce pour l'âge de l'énergie
+- **Compagnie des Indes Célestes** : logistique spatiale
+- **The Company of Adventurers into the Outer Rungs**
+- **L'Amirauté de la Longue Poussée** : propulsion interplanétaire
+- **La Société royale de l'Ascension**
+- **Le Bureau des Longitudes du Calcul** : jury de prix
+
+**Navires :**
+- *Resolute Gradient*
+- *Indefatigable*
+- *Sans Relâche*
+- *Plus Oultre* : d'après la vieille devise « plus loin encore »
+
+---
+
+## XX. Noms d'étoiles (nomenclature stellaire arabe)
+
+- **Sadalsuud** : « la chance des chances » ; fonds d'amorçage
+- **Alnair** : « la brillante » ; optique
+- **Achernar** : « la fin du fleuve » ; plateforme de bout en bout
+- **Fomalhaut** : « la bouche du poisson » ; ingestion de données
+- **Alnitak** : « la ceinture » ; câbles orbitaux
+- **Zubeneschamali** : « la pince du nord » ; pour une équipe qui aime les noms difficiles
+
+---
+
+## XXI. Unités, constantes, lois
+
+- **Second Law Partners**
+- **Carnot Limit** : conseil en rendement
+- **Maxwell's Demon Labs** : tri moléculaire, technologies de séparation
+- **Szilard Engine** : recherche sur la conversion de l'information en énergie
+- **Gibbs Free** : place de marché de l'énergie
+- **Avogadro Scale** : fabrication à grande échelle
+- **Planck Floor** : métrologie de précision
+- **Erg & Joule** : studio de matériel
+- **Zetta Systems** : calcul
+- **k-sub-B Capital** : un fonds nommé d'après la constante de Boltzmann
+
+---
+
+## XXII. La Ligue du Gradient (le sport des startups)
+
+Une ligue où les villes de startups alignent des équipes, avec des cartes à collectionner pour les fondateurs.
+
+- **National Acceleration League (NAL)**
+- **La Coupe du Gigawatt** : la finale annuelle
+- **Palo Alto Pyres**
+- **Austin Exergons**
+- **Shenzhen Sun-Eaters**
+- **Paris Prométhéens**
+- **Lagos Lampadephores**
+- **Bangalore Bathmics**
+- **Tokyo Tachyphiles**
+- **Berlin Dissipators**
+- **Denver Apogees**
+
+---
+
+## XXIII. Chaînes de pirate informatique
+
+Des noms qui se lisent comme une session de terminal ; bons pour les produits dérivés, les pseudonymes et les dépôts.
+
+- **/dev/fire**
+- **sudo accelerate**
+- **0xGRADIENT**
+- **NULL PAUSE**
+- **rm -rf moratorium**
+- **while(true) ship**
+- **SIGCONT** : « continuer », une lettre d'information
+- **ENTROPY.EXE**
+- **kill -9 committee**
+
+---
+
+## XXIV. Produits dérivés et slogans
+
+- *Trop bon marché pour être compté*
+- *Pas de pause, seulement des changements de phase*
+- *Pro-Gradient*
+- *L'entropie est un langage amoureux*
+- *Bâti autrement (dissipativement)*
+- *Touchez l'herbe, puis bâtissez dessus*
+- *Livrer ou sombrer*
+- *Per Ardua ad Kardashev*
+- *J'ai survécu au moratoire*
+- *La fusion est un art de vivre*
+- *Accelera.*
+
+---
+
+## XXV. Brèves créations pour marques grand public
+
+**Pyrr · Erga · Thalos · Kinea · Auxa · Ignea · Tachys · Vell · Ourana · Kampa · Helia · Noë · Exergia · Lampa · Dromo · Zelos**
+
+⚠ *Celera*, *Velox*, *Lumen* : pris maintes fois.

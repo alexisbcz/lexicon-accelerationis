@@ -341,3 +341,170 @@ Taglines:
 - **Bathmos Institute**: civilizational metrics
 - **The Euergetic Society**: builder-philanthropists
 - ⚠ *Instituts Carnot* is an existing French research label; *Noosphere Ventures* exists; *Prometheus*, *Turing*, *Shannon* and *Gradient* (Gradient Ventures) are crowded.
+
+---
+
+## XV. The forge of Hephaestus (robotics and hardware)
+
+Deep cuts from the myths of the first automata and the first smiths.
+
+- **Chryseai Robotics**: after the golden maidens who served Hephaestus, the first humanoids in literature
+- **Keledon**: voice AI, after the golden singing automata of Delphi
+- **Tripod Autonomy**: after the god's self-moving tripods, the first autonomous vehicles
+- **Telchine Foundry**: after the Telchines, the first metalworkers
+- **Kabeiri Works**: after the smith-gods of Samothrace; precision machining
+- **Steropes Power**: after the Cyclops who forged lightning ("flash")
+- **Brontes Grid**: after his brother "Thunder"; transmission lines
+- **Arges Photonics**: after the third Cyclops, "Bright"; lasers
+- **Daidala**: modular robotics
+- ⚠ *Talos*, *Argo*, *Phaethon*, *Hyperion*: crowded or taken
+
+---
+
+## XVI. Alchemy and the hermetic arts
+
+- **Athanor**: data centres, after the alchemist's furnace that never goes out
+- **Rubedo Bio**: the final, reddening stage of the Great Work; longevity
+- **Magnum Opus Capital**
+- **Azoth**: universal solvent; battery chemistry
+- **Calcinatio**: materials recycling
+- **Quinta Essentia**: a research lab
+- **Aurum Potabile**: a longevity drink, half in jest
+- **Caput Mortuum**: a decel-watch newsletter ("the dead residue")
+- **Nigredo**: the satirical weekly
+
+Taglines:
+- *Solve et coagula*
+- *Visita interiora terrae*: for geothermal
+
+---
+
+## XVII. The Revolutionary calendar (French brands)
+
+Months of the 1793 calendar, chosen to fit each sector.
+
+- **Thermidor Énergie**: "the month of heat"; power utility (ironic for its history, which is part of the joke)
+- **Germinal Labs**: biotech ("germination")
+- **Floréal Bio**: synthetic biology ("flowering")
+- **Messidor**: agritech ("harvest")
+- **Brumaire Capital**: a fund for the long view ("fog")
+- **Fructidor**: food tech ("fruit")
+- **Ventôse**: wind power ("windy")
+- **Pluviôse**: water and desalination ("rainy")
+- **Prairial**: land and rewilding tech
+- **Vendémiaire**: viticulture robotics
+
+---
+
+## XVIII. Ancien Régime and Grandes Écoles
+
+- **Manufacture Royale des Calculs**: compute
+- **Compagnie Générale de l'Hyperergie**: utility
+- **Société Anonyme des Forges de l'Archipyre**: fusion
+- **Crédit Kardashévien**: a bank
+- **Ponts et Gradients**: infrastructure, a pun on Ponts et Chaussées
+- **École Polytachnique**: founders' school (pun)
+- **Conservatoire des Arts et Machines**: a robotics museum and lab
+- **Académie des Sciences Accélérées**
+- **Le Grand Œuvre**: a holding company
+
+---
+
+## XIX. Chartered companies of the Age of Sail
+
+- **The East Gradient Company**: a trading company for the energy age
+- **Compagnie des Indes Célestes**: space logistics
+- **The Company of Adventurers into the Outer Rungs**
+- **The Admiralty of the Long Burn**: deep-space propulsion
+- **The Royal Society of Ascent**
+- **The Longitude Board for Compute**: prize body
+
+**Ships:**
+- *Resolute Gradient*
+- *Indefatigable*
+- *Sans Relâche*
+- *Plus Oultre*: after the old motto "further beyond"
+
+---
+
+## XX. Star names (Arabic stellar nomenclature)
+
+- **Sadalsuud**: "luck of lucks"; a seed fund
+- **Alnair**: "the bright one"; optics
+- **Achernar**: "end of the river"; an end-to-end platform
+- **Fomalhaut**: "mouth of the fish"; data ingestion
+- **Alnitak**: "the girdle"; orbital tethers
+- **Zubeneschamali**: "northern claw"; for a team that likes hard names
+
+---
+
+## XXI. Units, constants, laws
+
+- **Second Law Partners**
+- **Carnot Limit**: efficiency consulting
+- **Maxwell's Demon Labs**: molecular sorting, separation tech
+- **Szilard Engine**: information-to-energy research
+- **Gibbs Free**: an energy marketplace
+- **Avogadro Scale**: manufacturing at scale
+- **Planck Floor**: precision metrology
+- **Erg & Joule**: a hardware studio
+- **Zetta Systems**: compute
+- **k-sub-B Capital**: a fund named after Boltzmann's constant
+
+---
+
+## XXII. The Gradient League (startup sports)
+
+A league in which startup cities field teams, with trading cards for founders.
+
+- **National Acceleration League (NAL)**
+- **The Gigawatt Cup**: annual final
+- **Palo Alto Pyres**
+- **Austin Exergons**
+- **Shenzhen Sun-Eaters**
+- **Paris Prométhéens**
+- **Lagos Lampadephores**
+- **Bangalore Bathmics**
+- **Tokyo Tachyphiles**
+- **Berlin Dissipators**
+- **Denver Apogees**
+
+---
+
+## XXIII. Hacker strings
+
+Names that read like a terminal session; good for merch, handles and repos.
+
+- **/dev/fire**
+- **sudo accelerate**
+- **0xGRADIENT**
+- **NULL PAUSE**
+- **rm -rf moratorium**
+- **while(true) ship**
+- **SIGCONT**: "continue", a newsletter
+- **ENTROPY.EXE**
+- **kill -9 committee**
+
+---
+
+## XXIV. Merch and slogans
+
+- *Too Cheap to Meter*
+- *No Pause, Only Phase-Change*
+- *Pro-Gradient*
+- *Entropy Is a Love Language*
+- *Built Different (Dissipatively)*
+- *Touch Grass, Then Build On It*
+- *Ship or Sink*
+- *Per Ardua ad Kardashev*
+- *I Survived the Moratorium*
+- *Fusion Is a Lifestyle*
+- *Accelera.*
+
+---
+
+## XXV. Short coinages for consumer brands
+
+**Pyrr · Erga · Thalos · Kinea · Auxa · Ignea · Tachys · Vell · Ourana · Kampa · Helia · Noë · Exergia · Lampa · Dromo · Zelos**
+
+⚠ *Celera*, *Velox*, *Lumen*: taken many times over.

@@ -1363,3 +1363,32 @@ Saint-Gobain tient son nom du village où s'établit en 1665 la manufacture des 
 - **Atomec** : réacteurs
 
 ⚠ Maisons réelles, à ne pas employer : *Saint-Gobain*, *Schneider*, *Pechiney*, *Usinor*, *Sacilor*, *Alsthom/Alstom*, *Lafarge*, *Rhône-Poulenc*, *Ugine*, *Kuhlmann*, *Chargeurs Réunis*, *de Wendel*. Les noms de sources *Volvic*, *Badoit* et *Saint-Amand* sont également pris.
+
+---
+
+## LXXXVIII. Les compagnies de Jules Verne
+
+Verne donna à ses ingénieurs, financiers et visionnaires tout un monde d'entreprises. L'essentiel est tombé dans le domaine public ; quelques noms ont été repris depuis.
+
+**Inventés par Verne :**
+- **Le Gun-Club** : la société d'artilleurs de Baltimore qui envoie des hommes dans la Lune (*De la Terre à la Lune*, 1865)
+- **La Columbiad** : le canon géant qui y parvient
+- **Barbicane et Cie** et la **North Polar Practical Association** : la compagnie qui achète l'Arctique et projette de redresser l'axe terrestre pour en atteindre la houille (*Sans dessus dessous*, 1889) ; le plan d'affaires le plus accélérationniste de la littérature
+- **La Standard Island Company** : une ville flottante de millionnaires, Milliard-City, mue par l'électricité (*L'Île à hélice*, 1895)
+- **Stahlstadt** et **France-Ville** : la Cité de l'acier et la cité modèle hygiénique, rivales fondées avec un héritage (*Les Cinq Cents Millions de la Bégum*, 1879)
+- **Le Weldon-Institute** : le club d'aéronautes humilié par l'appareil volant l'*Albatros* (*Robur le Conquérant*, 1886)
+- **L'Épouvante** : à la fois automobile, bateau, sous-marin et machine volante (*Maître du monde*, 1904)
+- **Le Fulgurateur** : l'explosif de l'inventeur Thomas Roch (*Face au drapeau*, 1896)
+- **Casmodage et Cie** et la **Société Générale de Crédit Instructionnel** : la banque et le trust de l'enseignement de *Paris au XXᵉ siècle*, écrit en 1863 et perdu jusqu'en 1994
+- ⚠ *Nautilus* : très encombré
+
+**À la manière de Verne :**
+- **Société Anonyme du Boulet Lunaire** : lanceurs
+- **Barbicane Capital** : un fonds pour les projets que tout le monde dit impossibles
+- **La Compagnie de la Columbiad** : canons électromagnétiques
+- **Milliard-City Développement** : villes flottantes
+- **Compagnie de l'Axe Terrestre** : géo-ingénierie, à l'ambition de la compagnie arctique
+- **Institut Robur** : groupe de défense du plus-lourd-que-l'air, contre les aéronautes de tous les temps
+- **Épouvante Mobilité** : un seul véhicule pour la terre, la mer et l'air
+- **Le Tour du Monde Express** : logistique à délai de livraison garanti
+- **Voyages Extraordinaires** : agence de tourisme spatial, d'après le titre de la série entière de Verne

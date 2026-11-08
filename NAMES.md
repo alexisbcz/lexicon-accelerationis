@@ -1363,3 +1363,32 @@ Saint-Gobain took its name from the village where Colbert's mirror works stood i
 - **Atomec**: reactors
 
 ⚠ Real houses, do not use: *Saint-Gobain*, *Schneider*, *Pechiney*, *Usinor*, *Sacilor*, *Alsthom/Alstom*, *Lafarge*, *Rhône-Poulenc*, *Ugine*, *Kuhlmann*, *Chargeurs Réunis*, *de Wendel*. The spring names *Volvic*, *Badoit* and *Saint-Amand* are also taken.
+
+---
+
+## LXXXVIII. Jules Verne's companies
+
+Verne gave his engineers, financiers and visionaries an entire corporate world. Most of it is in the public domain; a few names have been reused since.
+
+**Invented by Verne:**
+- **The Gun Club**: the Baltimore society of artillerists that fires men to the Moon (*From the Earth to the Moon*, 1865)
+- **Columbiad**: the giant cannon that does it
+- **Barbicane & Co.** and the **North Polar Practical Association**: the company that buys the Arctic and plans to tilt the Earth's axis to reach its coal (*Topsy-Turvy*, 1889); the most accelerationist business plan in literature
+- **Standard Island Company**: a floating city of millionaires, Milliard City, propelled by electricity (*Propeller Island*, 1895)
+- **Stahlstadt** and **France-Ville**: the City of Steel and the model hygienic city, rivals founded with an inherited fortune (*The Begum's Fortune*, 1879)
+- **The Weldon Institute**: the balloonists' club humiliated by the flying machine *Albatross* (*Robur the Conqueror*, 1886)
+- **Épouvante**: the car, boat, submarine and aircraft in one (*Master of the World*, 1904)
+- **Fulgurator**: the explosive of the inventor Thomas Roch (*Facing the Flag*, 1896)
+- **Casmodage & Cie** and the **Société Générale de Crédit Instructionnel**: the bank and the education trust of *Paris in the Twentieth Century*, written in 1863 and lost until 1994
+- ⚠ *Nautilus*: very crowded
+
+**In Verne's manner:**
+- **Société Anonyme du Boulet Lunaire**: launch
+- **Barbicane Capital**: a fund for projects everyone calls impossible
+- **The Columbiad Company**: mass drivers
+- **Milliard City Development**: floating cities
+- **Compagnie de l'Axe Terrestre**: geoengineering, on the Arctic company's ambition
+- **Institut Robur**: a heavier-than-air advocacy group, against the balloonists of every age
+- **Épouvante Mobility**: one vehicle for land, sea and air
+- **Le Tour du Monde Express**: logistics with a guaranteed delivery time
+- **Voyages Extraordinaires**: a space-tourism agency, after the name of Verne's whole series

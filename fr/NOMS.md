@@ -1442,3 +1442,53 @@ Verne donna à ses ingénieurs, financiers et visionnaires tout un monde d'entre
 - **Astolfo** : fonds d'expédition lunaire, d'après le chevalier qui vola jusqu'à la Lune pour rapporter la raison perdue de Roland
 - **L'Anneau d'Angélique** : vie privée et invisibilité
 - **Balisarda** : outils de coupe, d'après l'épée forgée pour trancher les enchantements
+
+---
+
+## XC. L'espace français : programmes, ingénieurs, éponymes
+
+La France fut la troisième nation à placer un satellite en orbite avec sa propre fusée, et elle fonda la première société de lancement commercial. Les programmes et les ingénieurs qui l'ont permis, et des noms en leur honneur.
+
+**Les programmes :**
+- **Véronique** : la fusée-sonde du LRBA de Vernon, années 1950
+- **Diamant** : le lanceur qui mit en orbite le satellite **Astérix** depuis Hammaguir, dans le désert algérien, le 26 novembre 1965
+- **Europa** : le lanceur de l'ELDO des années 1960, qui échoua à chaque tentative orbitale
+- **L3S** : *Lanceur de 3ᵉ génération de Substitution*, le lanceur que la France proposa après Europa
+- **Ariane** : adoptée à la Conférence spatiale européenne de Bruxelles en juillet 1973, dans un accord global (Ariane pour la France, Spacelab pour l'Allemagne, le satellite maritime Marots pour le Royaume-Uni). Le CNES en reçut la maîtrise d'œuvre, sous l'égide de la nouvelle Agence spatiale européenne. Premier vol le 24 décembre 1979 depuis Kourou. Le nom, choisi par le ministre Jean Charbonnel, est la forme française d'Ariadne, dont le fil mène hors du labyrinthe.
+- **Arianespace** : fondée en 1980, première société de lancement commercial au monde
+- **Hermès** : l'avion spatial européen, abandonné en 1992
+
+**Les ingénieurs et les bâtisseurs :**
+- **Robert Esnault-Pelterie** (1881–1957) : pionnier de l'aviation et inventeur du manche à balai ; conférences sur le voyage interplanétaire en 1912–13, indépendamment de Tsiolkovski ; popularisa le mot *astronautique* ; *L'Astronautique* (1930)
+- **Jean-Jacques Barré** : construisit les premières fusées françaises à ergols liquides dans les années 1930 et 1940, parfois en secret sous l'Occupation
+- **Le général Robert Aubinière** : premier directeur général du CNES ; mena la France des fusées-sondes jusqu'à l'orbite, puis dirigea l'ESRO
+- **Jacques Blamont** (1926–2020) : directeur scientifique fondateur du CNES ; tira des fusées à Hammaguir ; travailla avec la NASA et avec les Soviétiques ; envoya des ballons français dans l'atmosphère de Vénus avec les missions soviétiques Vega (1985)
+- **Hubert Curien** : président du CNES, puis ministre ; le père politique d'Ariane
+- **Frédéric d'Allest** : dirigea le programme Ariane au CNES, puis devint le premier patron d'Arianespace
+- **Jean-Loup Chrétien** : premier Français dans l'espace (1982), premier Européen de l'Ouest à sortir dans l'espace (1988)
+- **Jean-François Clervoy** : ingénieur ; trois vols en navette spatiale, dont la mission de réparation de Hubble en 1999 ; dirige Novespace, les vols en apesanteur
+- **Thomas Pesquet** : ingénieur de Supaéro ; commandant de la Station spatiale internationale en 2021
+
+**Les entreprises du NewSpace français :**
+- **The Exploration Company** (Hélène Huby) : la capsule *Nyx*
+- **Latitude** (Stanislas Maximin) : le petit lanceur *Zephyr*
+- **Exotrail** (David Henri, Jean-Luc Maria) : propulsion électrique
+- **Loft Orbital** (Pierre-Damien Vaujour, Antoine de Chassy) : le satellite en tant que service
+- **MaiaSpace** : le petit lanceur réutilisable d'ArianeGroup
+
+**Éponymes :** *esnault-peltérien* (visionnaire, et rigoureux en mathématiques) · *blamontien* (savant, et prêt à travailler avec tous, guerre froide ou non) · *aubiniérien* (organisé et rapide) · *diamantin* (qui atteint l'orbite avec sa propre fusée)
+
+**Des noms en leur honneur :**
+- **L'Astronautique** : magazine spatial, d'après le livre d'Esnault-Pelterie
+- **Manche à Balai** : commandes de vol, d'après son invention
+- **Institut Blamont** : sciences planétaires
+- **Fondation Aubinière** : bourse pour jeunes ingénieurs spatiaux
+- **Prix Diamant** : prix pour la première entreprise privée européenne à atteindre l'orbite avec sa propre fusée
+- **Hammaguir** : polygone d'essais en désert
+- **Vernon Works** : moteurs-fusées, d'après le LRBA
+- **Barré Propulsion** : moteurs à ergols liquides
+- **Fil d'Ariane** : logiciel de navigation
+- **L3S Capital** : un fonds pour remplacer les projets qui ont échoué
+- **Europa Post-Mortem** : lettre sur les échecs, et sur ce qu'ils enseignent
+
+⚠ *Ariane*, *Arianespace*, *Vega*, *Hermès* (la maison de luxe), *Astérix* (la bande dessinée) et *Kourou* sont pris ou protégés. Les noms de personnes réelles demandent l'accord de leurs ayants droit ; les personnes vivantes ne figurent ici que comme figures, non comme marques.

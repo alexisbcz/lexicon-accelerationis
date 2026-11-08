@@ -1442,3 +1442,53 @@ Verne gave his engineers, financiers and visionaries an entire corporate world. 
 - **Astolfo**: a lunar expedition fund, after the knight who flew to the Moon to recover Orlando's lost wits
 - **Angelica's Ring**: privacy and invisibility
 - **Balisarda**: a cutting-tools brand, after the sword made to cut through enchantments
+
+---
+
+## XC. French space: programmes, engineers, eponyms
+
+France was the third nation to put a satellite in orbit on its own rocket, and it founded the first commercial launch company. The programmes and engineers behind that, and names in their honour.
+
+**The programmes:**
+- **Véronique**: the sounding rocket of the LRBA at Vernon, 1950s
+- **Diamant**: the launcher that put the satellite **Astérix** into orbit from Hammaguir, in the Algerian desert, on 26 November 1965
+- **Europa**: the ELDO launcher of the 1960s, which failed on every orbital attempt
+- **L3S**: *Lanceur de 3ᵉ génération de Substitution*, the substitute launcher France proposed after Europa
+- **Ariane**: adopted at the European Space Conference in Brussels in July 1973 in a package deal (Ariane for France, Spacelab for Germany, the Marots maritime satellite for Britain). CNES was put in charge, under the new European Space Agency. First flight on 24 December 1979 from Kourou. The name, chosen by the minister Jean Charbonnel, is the French form of Ariadne, whose thread led out of the labyrinth.
+- **Arianespace**: founded in 1980, the world's first commercial launch company
+- **Hermès**: the European spaceplane, cancelled in 1992
+
+**The engineers and builders:**
+- **Robert Esnault-Pelterie** (1881–1957): aviation pioneer and inventor of the aircraft control stick; lectured on interplanetary travel in 1912–13, independently of Tsiolkovsky; popularised the word *astronautique*; *L'Astronautique* (1930)
+- **Jean-Jacques Barré**: built France's first liquid-fuelled rockets in the 1930s and 40s, at times in secret under the Occupation
+- **General Robert Aubinière**: first director general of CNES; took France from sounding rockets to orbit, then ran ESRO
+- **Jacques Blamont** (1926–2020): founding scientific director of CNES; launched rockets at Hammaguir; worked with NASA and the Soviets; sent French balloons into the atmosphere of Venus aboard the Soviet Vega missions (1985)
+- **Hubert Curien**: president of CNES, then minister; the political father of Ariane
+- **Frédéric d'Allest**: directed the Ariane programme at CNES, then became the first head of Arianespace
+- **Jean-Loup Chrétien**: first Frenchman in space (1982), first Western European to walk in space (1988)
+- **Jean-François Clervoy**: engineer; three Space Shuttle flights, including the 1999 Hubble servicing mission; runs Novespace, the zero-gravity flights
+- **Thomas Pesquet**: Supaéro engineer; commander of the International Space Station in 2021
+
+**The French NewSpace companies:**
+- **The Exploration Company** (Hélène Huby): the *Nyx* capsule
+- **Latitude** (Stanislas Maximin): the *Zephyr* small launcher
+- **Exotrail** (David Henri, Jean-Luc Maria): electric propulsion
+- **Loft Orbital** (Pierre-Damien Vaujour, Antoine de Chassy): satellites as a service
+- **MaiaSpace**: ArianeGroup's reusable small launcher
+
+**Eponyms:** *esnault-peltérien* (visionary, mathematically rigorous) · *blamontien* (scientific, and willing to work with anyone, Cold War or not) · *aubiniérien* (organised and fast) · *diamantin* (achieving orbit on one's own rocket)
+
+**Names in their honour:**
+- **L'Astronautique**: a space magazine, after Esnault-Pelterie's book
+- **Manche à Balai**: a flight-controls company, after his control stick (*manche à balai*, "broomstick")
+- **Institut Blamont**: planetary science
+- **Fondation Aubinière**: a fellowship for young space engineers
+- **Prix Diamant**: a prize for the first private European company to reach orbit on its own rocket
+- **Hammaguir**: a desert test range
+- **Vernon Works**: rocket engines, after the LRBA
+- **Barré Propulsion**: liquid-fuel engines
+- **Fil d'Ariane**: navigation software ("Ariadne's thread")
+- **L3S Capital**: a fund for replacements of failed projects
+- **Europa Post-Mortem**: a newsletter on failures, and what they teach
+
+⚠ *Ariane*, *Arianespace*, *Vega*, *Hermès* (the fashion house), *Astérix* (the comic) and *Kourou* are taken or protected. Names of real people need the consent of their estates; living people are listed here only as figures, not as brands.

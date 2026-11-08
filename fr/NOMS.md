@@ -508,3 +508,179 @@ Des noms qui se lisent comme une session de terminal ; bons pour les produits d�
 **Pyrr · Erga · Thalos · Kinea · Auxa · Ignea · Tachys · Vell · Ourana · Kampa · Helia · Noë · Exergia · Lampa · Dromo · Zelos**
 
 ⚠ *Celera*, *Velox*, *Lumen* : pris maintes fois.
+
+---
+
+## XXVI. La cour byzantine
+
+Titres et institutions de l'Empire d'Orient, État millénaire qui fonctionnait à la paperasse et au feu grégeois.
+
+- **Logothete** : agent IA chef de cabinet (le logothète était le premier ministre de l'empire)
+- **Chrysobull** : signature électronique et contrats intelligents, d'après le décret impérial scellé d'or
+- **Typikon** : politique par le code, d'après la règle monastique
+- **Hygron Pyr** : énergie, d'après le nom byzantin du feu grégeois, « feu liquide »
+- **Sebastokrator Capital** : un fonds
+- **Protospatharios** : sécurité (« premier porte-glaive »)
+- **Porphyrogénète** : bourse pour fondateurs de seconde génération (« né dans la pourpre »)
+- **Hippodrome** : sport automobile et esport
+- **Bleus & Verts** : balado de rivalités, d'après les factions des courses de chars qui faillirent renverser le trône
+- **Exarchat** : franchises régionales
+
+---
+
+## XXVII. La Sérénissime (Venise)
+
+- **Arsenalotti** : intérim industriel, d'après les ouvriers de l'Arsenal, qui achevaient une galère en un jour
+- **Serenissima Orbital** : stations spatiales
+- **Sposalizio** : énergie en mer, d'après les Épousailles de la mer
+- **Bucintoro** : yachts électriques de luxe, d'après la galère d'apparat du doge
+- **Lido Launch** : site de lancement côtier
+- **Zecca** : paiements, d'après l'hôtel des monnaies vénitien
+- **Rialto Exchange** : place de marché du calcul
+- ⚠ *Doge* : pris par le Dogecoin
+
+---
+
+## XXVIII. Les bâtisseurs de cathédrales
+
+- **Magister Operis** : IA de construction (« maître de l'œuvre »)
+- **Arc-Boutant** : ingénierie des structures
+- **Claire-Voie** : vitrages solaires, d'après les fenêtres hautes de la nef
+- **Rosace** : optique
+- **La Loge du Gradient** : société de bâtisseurs, d'après les loges des maçons
+- **Remplage** : logiciels de conception
+- **Pinacle** : construction en bois de grande hauteur
+- ⚠ *Keystone*, *Compagnons du Devoir* : déjà pris
+
+---
+
+## XXIX. Cartographie et navigation
+
+- **Hic Sunt Dracones** : fonds de technologies de rupture (« ici sont les dragons »)
+- **Terra Incognita Capital**
+- **Portulan** : cartographie, d'après la carte marine médiévale
+- **Loxodromie** : routage logistique
+- **Estime** : navigation sans satellites (la navigation à l'estime)
+- **Mappa Mundi** : données géospatiales
+- **Plus Ultra Expéditions** : tourisme spatial
+- **Terra Australis** : lancements depuis l'hémisphère sud
+
+---
+
+## XXX. Noms de code
+
+Noms de code en deux mots, à la manière des programmes de la guerre froide ; tous originaux.
+
+- **Projet ARCHIPYRE** : fusion
+- **Opération SUNFANG** : solaire spatial
+- **Nom de code KNEE** : prévision
+- **BLACK GRADIENT** : calcul classifié
+- **IVORY PYRE** : conception de réacteurs
+- **SILENT DISSIPATOR** : furtivité thermique
+- **LONG BURN** : propulsion
+- **GLASS ANVIL** : lithographie
+- **IRON TELOS** : autonomie
+- **WHITE CAMPSIS** : présentation stratégique interne
+- ⚠ *Plowshare*, *Orion*, *Manhattan* : programmes réels
+
+---
+
+## XXXI. Latin botanique (gammes de biotechnologie)
+
+- **Sempervirens Bio** : longévité (« toujours vivant » ; c'est aussi le séquoia côtier)
+- **Perennis** : médecine régénérative
+- **Chlorophore** : photosynthèse modifiée
+- **Mycelia Grid** : capteurs distribués
+- **Rhizome Compute** : calcul en périphérie
+
+Binômes pour gammes de produits :
+- *Homo exergeticus*
+- *Homo kardashevianus*
+- *Pleonergia solaris*
+- *Rubedo perennis*
+- *Accelerandum vulgaris*
+
+---
+
+## XXXII. Le temps profond et la terre
+
+- **Phanerozoic Capital** : « l'âge de la vie visible » ; un fonds à long horizon
+- **Holocene Exit** : ingénierie climatique
+- **Mantle Geothermal**
+- **Magma Works** : forage profond
+- **Lithosphere Labs** : matériaux
+- **Pangée Grid** : transport intercontinental d'électricité
+- **Strates** : infrastructure de données
+- **Ère kardashévienne** : un média qui date ses articles à partir du premier gigawatt
+
+---
+
+## XXXIII. Indications de tempo
+
+Le vocabulaire musical de l'accélération.
+
+- **Stringendo** : logistique (« en pressant »)
+- **Con Fuoco Énergie** : « avec feu »
+- **Vivace Bio**
+- **Prestissimo** : calcul à faible latence
+- **Tutti** : logiciel collaboratif (« tous ensemble »)
+- **Da Capo** : outils de reprise et de restauration
+- **Institut Fermata** : réservé, par satire, à un cercle de réflexion décel (« point d'orgue »)
+- **Ritardando** : le nom que l'e/acc donnerait à la lettre d'information des décels
+- ⚠ *Accelerando* (un roman célèbre), *Allegro*, *Presto*, *Crescendo* : pris ou encombrés
+
+---
+
+## XXXIV. Héraldique
+
+- **Or & Gueules** : studio de design (« or et rouge »)
+- **Rampant Robotics** : d'après le lion dressé
+- **Sable Grid** : stockage d'énergie (« noir »)
+- **Argent Launch** : « argent »
+- **Passant** : logistique (« marchant »)
+- **Lion Rampant Capital**
+- **Écu** : identité et sécurité
+- ⚠ *Azure* : Microsoft
+
+---
+
+## XXXV. Mathématiques
+
+- **Aleph Null Compute**
+- **Aleph One Capital**
+- **E-Fold Ventures** : d'après le temps qu'il faut à une grandeur pour croître d'un facteur *e*
+- **Temps de doublement** : une lettre d'information
+- **Eigenfire** : laboratoire de recherche
+- **Point Fixe** : outils de vérification
+- **Logistic Escape** : pour toute entreprise qui refuse sa courbe en S
+- **Lyapunov** : prévision
+- **Crosse de Hockey** : conseil en croissance, dit avec sérieux
+
+---
+
+## XXXVI. Journaux à l'ancienne
+
+- **The Daily Gradient**
+- **The Pleonergist** : un hebdomadaire à la manière des grandes revues libérales
+- **The Exponential Gazette**
+- **The Weekly Joule**
+- **The Times of Ascent**
+- **Le Moniteur de l'Accélération**
+- **Courrier du Cône de lumière**
+- **L'Écho du Gigawatt**
+- **Le Petit Kardashévien**
+- **La Gazette des Fonderies**
+
+---
+
+## XXXVII. Cafés, bars, lieux
+
+- **Café Carnot** : café de fondateurs
+- **The Heat Sink** : bar à cocktails
+- **Bar Exergie**
+- **La Taverne du Second Principe**
+- **Brasserie Thermidor**
+- **Le Gradient** : cercle privé
+- **La Rampe** : salle pour les journées de démonstration
+- **Salon Prométhée** : cycle de dîners
+- **Zéro Absolu** : glacier

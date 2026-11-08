@@ -508,3 +508,179 @@ Names that read like a terminal session; good for merch, handles and repos.
 **Pyrr · Erga · Thalos · Kinea · Auxa · Ignea · Tachys · Vell · Ourana · Kampa · Helia · Noë · Exergia · Lampa · Dromo · Zelos**
 
 ⚠ *Celera*, *Velox*, *Lumen*: taken many times over.
+
+---
+
+## XXVI. The Byzantine court
+
+Titles and institutions from the Eastern Empire, a thousand-year state that ran on paperwork and Greek fire.
+
+- **Logothete**: chief-of-staff AI agent (the logothete was the empire's chief minister)
+- **Chrysobull**: e-signature and smart contracts, after the emperor's gold-sealed decree
+- **Typikon**: policy-as-code, after the monastic rulebook
+- **Hygron Pyr**: energy, after the Byzantine name for Greek fire, "liquid fire"
+- **Sebastokrator Capital**: a fund
+- **Protospatharios**: security ("first sword-bearer")
+- **Porphyrogenite**: a fellowship for second-generation founders ("born in the purple")
+- **Hippodrome**: motorsport and esports
+- **Blues & Greens**: a rivalry podcast, after the chariot-racing factions that once nearly toppled the throne
+- **Exarchate**: regional franchise operations
+
+---
+
+## XXVII. The Most Serene Republic (Venice)
+
+- **Arsenalotti**: manufacturing staffing, after the Arsenal's shipwrights, who could finish a galley in a day
+- **Serenissima Orbital**: space stations
+- **Sposalizio**: offshore energy, after the Marriage of the Sea
+- **Bucintoro**: luxury electric yachts, after the doge's state barge
+- **Lido Launch**: coastal launch site
+- **Zecca**: payments, after the Venetian mint
+- **Rialto Exchange**: compute marketplace
+- ⚠ *Doge*: taken by Dogecoin
+
+---
+
+## XXVIII. The cathedral builders
+
+- **Magister Operis**: construction AI ("master of the works")
+- **Flying Buttress**: structural engineering
+- **Clerestory**: solar glazing, after the upper windows of a nave
+- **Rose Window**: optics
+- **The Lodge of the Gradient**: a builders' society, after the masons' lodges
+- **Tracery**: design software
+- **Pinnacle Works**: tall timber construction
+- ⚠ *Keystone*, *Compagnons du Devoir*: taken
+
+---
+
+## XXIX. Cartography and navigation
+
+- **Hic Sunt Dracones**: a deep-tech fund ("here be dragons")
+- **Terra Incognita Capital**
+- **Portolan**: mapping, after the medieval sea-chart
+- **Rhumb Line**: logistics routing
+- **Dead Reckoning**: navigation without satellites
+- **Mappa Mundi**: geospatial data
+- **Plus Ultra Expeditions**: space tourism
+- **Terra Australis**: southern-hemisphere launch
+
+---
+
+## XXX. Project codenames
+
+Two-word codenames in the style of Cold War programmes; all original.
+
+- **Project ARCHIPYRE**: fusion
+- **Operation SUNFANG**: space solar
+- **Codename KNEE**: forecasting
+- **BLACK GRADIENT**: classified compute
+- **IVORY PYRE**: reactor design
+- **SILENT DISSIPATOR**: thermal stealth
+- **LONG BURN**: propulsion
+- **GLASS ANVIL**: lithography
+- **IRON TELOS**: autonomy
+- **WHITE CAMPSIS**: an internal strategy deck
+- ⚠ *Plowshare*, *Orion*, *Manhattan*: real programmes
+
+---
+
+## XXXI. Botanical Latin (biotech product lines)
+
+- **Sempervirens Bio**: longevity ("ever-living"; also the coast redwood)
+- **Perennis**: regenerative medicine
+- **Chlorophore**: engineered photosynthesis
+- **Mycelia Grid**: distributed sensors
+- **Rhizome Compute**: edge computing
+
+Product-line binomials:
+- *Homo exergeticus*
+- *Homo kardashevianus*
+- *Pleonergia solaris*
+- *Rubedo perennis*
+- *Accelerandum vulgaris*
+
+---
+
+## XXXII. Deep time and the earth
+
+- **Phanerozoic Capital**: "the age of visible life"; a long-horizon fund
+- **Holocene Exit**: climate engineering
+- **Mantle Geothermal**
+- **Magma Works**: deep drilling
+- **Lithosphere Labs**: materials
+- **Pangaea Grid**: intercontinental transmission
+- **Strata**: data infrastructure
+- **Kardashevian Era**: a media brand that dates articles from the first gigawatt
+
+---
+
+## XXXIII. Tempo markings
+
+The musical vocabulary of acceleration.
+
+- **Stringendo**: logistics ("pressing on")
+- **Con Fuoco Energy**: "with fire"
+- **Vivace Bio**
+- **Prestissimo**: low-latency compute
+- **Tutti**: collaboration software ("all together")
+- **Da Capo**: restart and recovery tooling
+- **Fermata Institute**: reserved, satirically, for a decel think tank ("hold")
+- **Ritardando**: the decel newsletter's own name, as the e/acc would have it
+- ⚠ *Accelerando* (a well-known novel), *Allegro*, *Presto*, *Crescendo*: taken or crowded
+
+---
+
+## XXXIV. Heraldry
+
+- **Or & Gules**: design studio ("gold and red")
+- **Rampant Robotics**: after the rearing lion
+- **Sable Grid**: energy storage ("black")
+- **Argent Launch**: "silver"
+- **Passant**: logistics ("walking")
+- **Lion Rampant Capital**
+- **Escutcheon**: identity and security
+- ⚠ *Azure*: Microsoft
+
+---
+
+## XXXV. Mathematics
+
+- **Aleph Null Compute**
+- **Aleph One Capital**
+- **E-Fold Ventures**: after the time for a quantity to grow by a factor of *e*
+- **Doubling Time**: a newsletter
+- **Eigenfire**: a research lab
+- **Fixed Point**: verification tools
+- **Logistic Escape**: for any company that refuses its S-curve
+- **Lyapunov**: forecasting
+- **Hockey Stick**: growth consulting, said with a straight face
+
+---
+
+## XXXVI. Newspapers of the old style
+
+- **The Daily Gradient**
+- **The Pleonergist**: a weekly in the manner of the great liberal reviews
+- **The Exponential Gazette**
+- **The Weekly Joule**
+- **The Times of Ascent**
+- **Le Moniteur de l'Accélération**
+- **Courrier du Cône de lumière**
+- **L'Écho du Gigawatt**
+- **Le Petit Kardashévien**
+- **La Gazette des Fonderies**
+
+---
+
+## XXXVII. Cafés, bars, venues
+
+- **Café Carnot**: a cafe for founders
+- **The Heat Sink**: cocktail bar
+- **Bar Exergie**
+- **The Second Law Tavern**
+- **Brasserie Thermidor**
+- **Le Gradient**: a members' club
+- **The Launch Pad**: a demo-day venue
+- **Salon Prométhée**: dinner series
+- **Absolute Zero**: an ice-cream shop

@@ -1306,3 +1306,60 @@ The movement that, in 1909, declared a racing car more beautiful than the Victor
 - **Stepwell**: water storage, after the carved wells of Gujarat and Rajasthan
 - **Sarai**: hospitality
 - **Subak**: cooperative irrigation, after the Balinese water-temple system
+
+---
+
+## LXXXVII. In the manner of Saint-Gobain: the old French industrial houses
+
+Saint-Gobain took its name from the village where Colbert's mirror works stood in 1665. The great French houses were named in the same few ways: after a saint's village, a river, a founding family, a merger of places, or, later, an acronym. Each pattern is set out below with original names.
+
+**Saint's villages** (several are real villages chosen for what their names suggest):
+- **Saint-Fulgent Énergie**: power utility (*fulgens*, "shining"; a real village in the Vendée)
+- **Saint-Lumine Photonique**: lasers and optics (after Saint-Lumine-de-Clisson)
+- **Saint-Clair Optique**: lenses ("clear")
+- **Saint-Elme Plasma**: fusion, after St. Elmo's fire
+- **Sainte-Espérance Capital**: an optimist fund ("hope")
+- **Sainte-Foy Ventures**: early stage ("faith")
+- **Saint-Gradient**: a holding company, if the saint does not exist, one can be canonised later
+- **Sainte-Exergie**: energy efficiency
+
+**Places that already sound like industry** (all real place names):
+- **Forges-les-Eaux Hydrogène**: electrolysis, from a town whose name is "forges by the waters"
+- **Chaudes-Aigues Géothermie**: after the village of hot springs, with the hottest in Europe
+- **Fourneaux**: furnaces and process heat (a village in Savoie)
+- **Lumbres**: lighting
+- **Ax Thermique**: geothermal, after Ax-les-Thermes
+
+**Rivers and industry**, in the pattern of Rhône-Poulenc:
+- **Rhône-Fusion**
+- **Loire-Calcul**: data centres cooled by the river
+- **Seine-Orbite**: space
+- **Garonne-Hydrogène**
+- **Durance-Atome**: reactors and fusion, on the river of Cadarache and ITER
+- **Isère-Électrochimie**: batteries, in the valley where hydroelectric chemistry began
+
+**Families and mergers:**
+- **Archipyre Frères**
+- **Kardashev & Cie**
+- **Gradients Réunis**: in the pattern of the old *Réunis* names
+- **Calculateurs Réunis**
+- **Établissements Pleonergie**
+- **Ets Tachyphile & Fils**
+
+**Very long names of the forge-and-steel companies:**
+- **Compagnie des Forges et Fonderies de l'Orbite et de la Lune**
+- **Société des Hauts Fourneaux, Forges et Calculateurs de Psammonie**
+- **Compagnie Générale des Mines, Usines et Lanceurs du Massif Central**
+- **Société Anonyme des Aciéries et Réacteurs de la Haute-Durance**
+
+**Acronyms of the 1960s**, in the pattern of the steel and aluminium groups:
+- **Usigrad**: *Usines du Gradient*
+- **Pléonor**: *Pléonergie du Nord*
+- **Fusilor**: *Fusion de Lorraine*
+- **Calcinor**: *Calcul du Nord*
+- **Sidérorbite**: steel for orbit
+- **Thermélec**: heat to electricity
+- **Spatiom**: space
+- **Atomec**: reactors
+
+⚠ Real houses, do not use: *Saint-Gobain*, *Schneider*, *Pechiney*, *Usinor*, *Sacilor*, *Alsthom/Alstom*, *Lafarge*, *Rhône-Poulenc*, *Ugine*, *Kuhlmann*, *Chargeurs Réunis*, *de Wendel*. The spring names *Volvic*, *Badoit* and *Saint-Amand* are also taken.

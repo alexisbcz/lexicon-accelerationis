@@ -1306,3 +1306,60 @@ Le mouvement qui, en 1909, déclara une automobile de course plus belle que la V
 - **Puits à Degrés** : stockage de l'eau, d'après les puits sculptés du Gujarat et du Rajasthan
 - **Saraï** : hôtellerie
 - **Subak** : irrigation coopérative, d'après le système balinais des temples de l'eau
+
+---
+
+## LXXXVII. À la manière de Saint-Gobain : les vieilles maisons industrielles françaises
+
+Saint-Gobain tient son nom du village où s'établit en 1665 la manufacture des glaces de Colbert. Les grandes maisons françaises se nommèrent de quelques manières seulement : d'après le village d'un saint, une rivière, une famille fondatrice, la fusion de deux lieux, ou, plus tard, un sigle. Chaque manière est donnée ci-dessous avec des noms originaux.
+
+**Villages de saints** (plusieurs sont des villages réels, choisis pour ce que suggère leur nom) :
+- **Saint-Fulgent Énergie** : producteur d'électricité (*fulgens*, « brillant » ; un village réel de Vendée)
+- **Saint-Lumine Photonique** : lasers et optique (d'après Saint-Lumine-de-Clisson)
+- **Saint-Clair Optique** : lentilles (« clair »)
+- **Saint-Elme Plasma** : fusion, d'après le feu de Saint-Elme
+- **Sainte-Espérance Capital** : un fonds optimiste
+- **Sainte-Foy Ventures** : amorçage (« la foi »)
+- **Saint-Gradient** : société holding ; si le saint n'existe pas, on le canonisera plus tard
+- **Sainte-Exergie** : efficacité énergétique
+
+**Des lieux qui sonnent déjà comme une industrie** (tous des lieux réels) :
+- **Forges-les-Eaux Hydrogène** : électrolyse, d'une ville dont le nom dit « les forges près des eaux »
+- **Chaudes-Aigues Géothermie** : d'après le village des sources chaudes, les plus chaudes d'Europe
+- **Fourneaux** : fours et chaleur industrielle (un village de Savoie)
+- **Lumbres** : éclairage
+- **Ax Thermique** : géothermie, d'après Ax-les-Thermes
+
+**Rivières et industrie**, sur le modèle de Rhône-Poulenc :
+- **Rhône-Fusion**
+- **Loire-Calcul** : centres de calcul refroidis par le fleuve
+- **Seine-Orbite** : spatial
+- **Garonne-Hydrogène**
+- **Durance-Atome** : réacteurs et fusion, sur la rivière de Cadarache et d'ITER
+- **Isère-Électrochimie** : batteries, dans la vallée où naquit l'électrochimie hydroélectrique
+
+**Familles et fusions :**
+- **Archipyre Frères**
+- **Kardashev & Cie**
+- **Gradients Réunis** : sur le modèle des anciens noms en *Réunis*
+- **Calculateurs Réunis**
+- **Établissements Pléonergie**
+- **Ets Tachyphile & Fils**
+
+**Les très longues raisons sociales des forges et aciéries :**
+- **Compagnie des Forges et Fonderies de l'Orbite et de la Lune**
+- **Société des Hauts Fourneaux, Forges et Calculateurs de Psammonie**
+- **Compagnie Générale des Mines, Usines et Lanceurs du Massif Central**
+- **Société Anonyme des Aciéries et Réacteurs de la Haute-Durance**
+
+**Sigles des années soixante**, sur le modèle des groupes de l'acier et de l'aluminium :
+- **Usigrad** : *Usines du Gradient*
+- **Pléonor** : *Pléonergie du Nord*
+- **Fusilor** : *Fusion de Lorraine*
+- **Calcinor** : *Calcul du Nord*
+- **Sidérorbite** : acier pour l'orbite
+- **Thermélec** : de la chaleur à l'électricité
+- **Spatiom** : spatial
+- **Atomec** : réacteurs
+
+⚠ Maisons réelles, à ne pas employer : *Saint-Gobain*, *Schneider*, *Pechiney*, *Usinor*, *Sacilor*, *Alsthom/Alstom*, *Lafarge*, *Rhône-Poulenc*, *Ugine*, *Kuhlmann*, *Chargeurs Réunis*, *de Wendel*. Les noms de sources *Volvic*, *Badoit* et *Saint-Amand* sont également pris.

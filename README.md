@@ -2,12 +2,12 @@
 
 *or, A Dictionary of the Effective-Accelerationist Tongue* — with its French edition, *Lexique de l'Accélération*.
 
-A dense, two-column dictionary in the classical manner (Johnson, Littré, Trévoux), set in LaTeX. It gives the vocabulary of effective accelerationism (e/acc) as a learned lexicon. **680 entries, of which fewer than 2% are attested words.** The rest are neologisms coined from Greek and Latin roots, then Englished or Frenchified.
+A dense, two-column dictionary in the classical manner (Johnson, Littré, Trévoux), set in LaTeX. It gives the vocabulary of effective accelerationism (e/acc) as a learned lexicon. **704 entries, of which fewer than 2% are attested words.** The rest are neologisms coined from Greek and Latin roots, then Englished or Frenchified.
 
 | Edition | PDF | Pages |
 |---|---|---|
-| English | [`lexicon.pdf`](lexicon.pdf) | 32 |
-| Français | [`fr/lexique.pdf`](fr/lexique.pdf) | 34 |
+| English | [`lexicon.pdf`](lexicon.pdf) | 33 |
+| Français | [`fr/lexique.pdf`](fr/lexique.pdf) | 36 |
 
 Each entry gives:
 
@@ -19,7 +19,7 @@ That is: the headword, IPA pronunciation, part of speech, an etymology with the 
 - a preface
 - tables of abbreviations and invented sources
 - a key to pronunciation
-- an *Index Radicum*, a table of every Greek and Latin root used (about 625), each listed with the words built from it
+- an *Index Radicum*, a table of every Greek and Latin root used (about 630), each listed with the words built from it
 
 Sample words: *nomophragm* (a rule that prevents the thing it governs), *epistolopause* (an open letter demanding a halt), *fibulophobia* (fear of paperclips), *campsis* (the knee of the curve), *eleutherergy* (free energy, in Greek), *bradyerie* (the whole establishment of delay), *protobathmic / deuterobathmic / tritobathmic* (the rungs of the Kardashev ladder), *chortotherapy* (touching grass).
 

@@ -1195,3 +1195,114 @@ La « période des fondateurs » : une floraison de sociétés, puis un krach.
 - **Lale Devri** : magazine culturel, d'après l'ère des Tulipes
 - **Müteferrika** : édition, d'après le premier imprimeur ottoman de livres en turc
 - **Takiyüddin** : un observatoire, d'après l'astronome dont l'observatoire fut rasé en trois ans : un avertissement
+
+---
+
+## LXXVIII. Les premiers ingénieurs chinois
+
+- **Dujiangyan** : infrastructures hydrauliques, d'après les ouvrages d'irrigation de 256 av. J.-C. qui arrosent encore la plaine de Chengdu
+- **Li Bing** : génie civil, d'après le gouverneur qui les bâtit
+- **Zhang Heng** : capteurs, d'après l'inventeur du premier sismoscope
+- **Su Song** : mesure précise du temps, d'après la tour-horloge astronomique de 1088
+- **Bi Sheng** : matériel modulaire, d'après l'inventeur des caractères mobiles
+- **Mengxi** : application de carnets de recherche, d'après les *Propos du torrent des rêves* de Shen Kuo
+- **Baochuan** : logistique lourde, d'après les navires-trésors de Zheng He
+- **Grand Canal Capital** : fonds d'infrastructures
+
+---
+
+## LXXIX. La route inca
+
+- **Quipu** : bases de données, d'après les cordelettes nouées qui gouvernèrent un empire sans écriture
+- **Chasqui** : livraison du dernier kilomètre, d'après les coureurs-relais
+- **Qhapaq Ñan** : réseaux logistiques, d'après le réseau routier de 30 000 kilomètres
+- **Tambo** : relais et infrastructures en périphérie
+- **Andenes** : agritech, d'après les terrasses de montagne
+- **Mit'a** : plateformes de main-d'œuvre (avec prudence : c'était une corvée)
+- **Colca** : stockage, d'après les entrepôts d'État
+
+---
+
+## LXXX. Le futurisme italien
+
+Le mouvement qui, en 1909, déclara une automobile de course plus belle que la Victoire de Samothrace. (Sa politique ultérieure est un passif connu ; prenez le vocabulaire, non l'histoire.)
+
+- **Velocità** : mobilité
+- **Dinamismo** : robotique
+- **Città Nuova** : aménagement urbain, d'après les dessins de Sant'Elia pour la ville future
+- **Aeropittura** : imagerie aérienne
+- **Parole in Libertà** : un média (« mots en liberté »)
+- **Simultaneità** : collaboration en temps réel
+- **Linee di Forza** : énergie (« lignes de force »)
+
+---
+
+## LXXXI. Constructivisme et électrification
+
+- **GOELRO** : fonds d'électrification, d'après le plan de 1920 pour électrifier la Russie
+- **Choukhov** : structures légères, d'après la tour radio hyperboloïde
+- **Vkhoutemas** : école de design, d'après les ateliers de Moscou
+- **Proun** : logiciel de conception, d'après les « projets pour l'affirmation du nouveau » de Lissitzky
+- **Dneproguès** : hydroélectricité, d'après le barrage sur le Dniepr
+- **Magnitka** : acier, d'après la ville industrielle sortie de rien
+
+---
+
+## LXXXII. La frontière américaine et les chemins de fer
+
+- **Golden Spike** : plateforme d'intégration, d'après le crampon d'or qui unit la ligne transcontinentale
+- **Clinton's Ditch** : un fonds pour les projets dont tout le monde se moque, d'après le premier surnom du canal Érié
+- **Transcontinental** : logistique
+- **Manifeste** : logiciel d'expédition
+- **Land Grant** : fonds de recherche universitaire
+- **Rotonde** : robotique de maintenance
+- **Prairie Schooner** : habitat mobile
+- ⚠ *Homestead*, *Pony Express* : encombrés
+
+---
+
+## LXXXIII. Le style paquebot (Streamline Moderne)
+
+- **Streamline** : design industriel
+- **Moderne** : aménagement intérieur
+- **Aérodynamique** : studio aérospatial
+- **Normandie** : voyages de luxe, d'après le paquebot
+- **Chrome & Goutte d'Eau** : studio automobile
+- **Dymaxion** : habitat efficace, d'après le mot de Fuller (⚠ vérifier les droits de la succession)
+- ⚠ *Airflow*, *Zephyr*, *Chrysler* : pris
+
+---
+
+## LXXXIV. La cybernétique
+
+- **Le Ratio Club** : cercle de dîners de fondateurs, d'après le club des cybernéticiens britanniques de 1949
+- **Conférences Macy** : cycle de conférences
+- **Homéostat** : systèmes de commande, d'après la machine d'Ashby
+- **Société Téléologique** : balado de philosophie
+- **Boucle de Rétroaction** : une lettre d'information
+- **Boîte Noire** : interprétabilité
+- **Variété Requise** : conseil, d'après la loi d'Ashby
+- ⚠ *Cybersyn* est étroitement lié à son histoire chilienne
+
+---
+
+## LXXXV. Transitions de phase
+
+- **Chaleur Latente Capital** : un fonds pour l'énergie qui ne s'est pas encore montrée
+- **Nucléation** : incubateur
+- **Point Critique** : prévision
+- **Surfondu** : cryogénie
+- **Point Triple** : place de marché à trois faces
+- **Surchauffe** : stockage thermique
+- **Changement de Phase** : conseil en transformation
+
+---
+
+## LXXXVI. Les ouvrages hydrauliques d'Asie
+
+- **Baray** : réservoirs, d'après les immenses bassins d'Angkor
+- **Karkhana** : fabrication, d'après les ateliers impériaux moghols
+- **Jantar** : instruments d'astronomie, d'après les observatoires de Jai Singh
+- **Puits à Degrés** : stockage de l'eau, d'après les puits sculptés du Gujarat et du Rajasthan
+- **Saraï** : hôtellerie
+- **Subak** : irrigation coopérative, d'après le système balinais des temples de l'eau

@@ -1195,3 +1195,114 @@ The "founders' period": a boom of company formation, then a crash.
 - **Lale Devri**: a cultural magazine, after the Tulip Era
 - **Müteferrika**: publishing, after the first Ottoman printer of books in Turkish
 - **Takiyüddin**: an observatory, after the astronomer whose observatory was torn down within three years: a warning
+
+---
+
+## LXXVIII. Early Chinese engineering
+
+- **Dujiangyan**: water infrastructure, after the irrigation works of 256 BC that still water the Chengdu plain
+- **Li Bing**: civil engineering, after the governor who built it
+- **Zhang Heng**: sensing, after the inventor of the first seismoscope
+- **Su Song**: precision timekeeping, after the astronomical clock tower of 1088
+- **Bi Sheng**: modular hardware, after the inventor of movable type
+- **Mengxi**: a research notebook app, after Shen Kuo's *Dream Pool Essays*
+- **Baochuan**: heavy logistics, after Zheng He's treasure ships
+- **Grand Canal Capital**: an infrastructure fund
+
+---
+
+## LXXIX. The Inca road
+
+- **Quipu**: databases, after the knotted-cord records that ran an empire without writing
+- **Chasqui**: last-mile delivery, after the relay runners
+- **Qhapaq Ñan**: logistics networks, after the 30,000-kilometre road system
+- **Tambo**: waystations and edge infrastructure
+- **Andenes**: agritech, after the mountain terraces
+- **Mit'a**: workforce platforms (handle with care: it was a labour levy)
+- **Colca**: storage, after the state warehouses
+
+---
+
+## LXXX. Italian Futurism
+
+The movement that, in 1909, declared a racing car more beautiful than the Victory of Samothrace. (Its later politics are a known liability; use the vocabulary, not the history.)
+
+- **Velocità**: mobility
+- **Dinamismo**: robotics
+- **Città Nuova**: urban development, after Sant'Elia's drawings of the future city
+- **Aeropittura**: aerial imaging
+- **Parole in Libertà**: a media brand ("words set free")
+- **Simultaneità**: real-time collaboration
+- **Linee di Forza**: energy ("lines of force")
+
+---
+
+## LXXXI. Constructivism and electrification
+
+- **GOELRO**: an electrification fund, after the 1920 plan to electrify Russia
+- **Shukhov**: lightweight structures, after the hyperboloid radio tower
+- **Vkhutemas**: a design school, after the Moscow workshops
+- **Proun**: design software, after Lissitzky's "projects for the affirmation of the new"
+- **Dneproges**: hydropower, after the dam on the Dnieper
+- **Magnitka**: steel, after the industrial city built from nothing
+
+---
+
+## LXXXII. The American frontier and the railroads
+
+- **Golden Spike**: an integration platform, after the spike that joined the transcontinental line
+- **Clinton's Ditch**: a fund for projects everyone mocks, after the Erie Canal's original nickname
+- **Transcontinental**: logistics
+- **Manifest**: shipping software
+- **Land Grant**: a university-research fund
+- **Roundhouse**: maintenance robotics
+- **Prairie Schooner**: mobile housing
+- ⚠ *Homestead*, *Pony Express*: crowded
+
+---
+
+## LXXXIII. Streamline Moderne
+
+- **Streamline**: industrial design
+- **Moderne**: interiors
+- **Aérodynamique**: an aerospace studio
+- **Normandie**: luxury travel, after the ocean liner
+- **Chrome & Teardrop**: an automotive studio
+- **Dymaxion**: efficient housing, after Fuller's word (⚠ check estate rights)
+- ⚠ *Airflow*, *Zephyr*, *Chrysler*: taken
+
+---
+
+## LXXXIV. Cybernetics
+
+- **The Ratio Club**: a founders' dining club, after the British cyberneticians' club of 1949
+- **Macy Conferences**: a conference series
+- **Homeostat**: control systems, after Ashby's machine
+- **Teleological Society**: a philosophy podcast
+- **Feedback Loop**: a newsletter
+- **Black Box**: interpretability
+- **Requisite Variety**: consulting, after Ashby's law
+- ⚠ *Cybersyn* is closely tied to its Chilean history
+
+---
+
+## LXXXV. Phase transitions
+
+- **Latent Heat Capital**: a fund for energy that has not yet shown itself
+- **Nucleation**: an incubator
+- **Critical Point**: forecasting
+- **Supercooled**: cryogenics
+- **Triple Point**: a three-sided marketplace
+- **Superheat**: thermal storage
+- **Phase Change**: transformation consulting
+
+---
+
+## LXXXVI. The waterworks of Asia
+
+- **Baray**: reservoirs, after the vast tanks of Angkor
+- **Karkhana**: manufacturing, after the Mughal imperial workshops
+- **Jantar**: astronomy instruments, after the observatories of Jai Singh
+- **Stepwell**: water storage, after the carved wells of Gujarat and Rajasthan
+- **Sarai**: hospitality
+- **Subak**: cooperative irrigation, after the Balinese water-temple system

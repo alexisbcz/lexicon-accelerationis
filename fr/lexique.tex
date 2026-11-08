@@ -1,0 +1,238 @@
+% Lexique de l'Accélération — compiler avec : xelatex lexique.tex (deux passes)
+\documentclass[10pt,twoside]{article}
+\usepackage[paperwidth=170mm,paperheight=250mm,inner=14mm,outer=11mm,
+  top=17mm,bottom=14mm,headsep=3.5mm,headheight=11pt,columnsep=4.5mm]{geometry}
+\usepackage{fontspec}
+\setmainfont{Libertinus Serif}[Numbers=OldStyle]
+\newfontfamily\initfont{Libertinus Serif Initials}
+\newfontfamily\dispfont{Libertinus Serif Display}
+\newfontfamily\liningfont{Libertinus Serif}[Numbers=Lining]
+\usepackage[french]{babel}
+\frenchsetup{ItemLabels=\textendash}
+\usepackage{microtype}
+\usepackage{multicol}
+\usepackage{fancyhdr}
+\usepackage{etoolbox}
+\usepackage{xcolor}
+\usepackage{lettrine}
+\renewcommand{\LettrineFontHook}{\initfont\color{rubric}}
+\setcounter{DefaultLines}{3}
+\definecolor{rubric}{RGB}{140,22,18}
+\definecolor{ink}{RGB}{28,24,20}
+\color{ink}
+
+\setlength{\columnseprule}{0.3pt}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0pt}
+\setlength{\multicolsep}{2pt plus 1pt}
+\raggedbottom
+\tolerance=1800
+\emergencystretch=1.2em
+\hyphenpenalty=40
+
+\NewMarkClass{dict}
+\newcommand\guidefirst{\FirstMark{dict}}
+\newcommand\guidelast{\LastMark{dict}}
+
+\fancypagestyle{dict}{\fancyhf{}%
+  \renewcommand{\headrulewidth}{0.4pt}%
+  \fancyhead[L]{\textsc{\MakeLowercase{\guidefirst}}}%
+  \fancyhead[R]{\textsc{\MakeLowercase{\guidelast}}}%
+  \fancyhead[C]{\liningfont\small\thepage}}
+\fancypagestyle{plain}{\fancyhf{}\renewcommand{\headrulewidth}{0pt}%
+  \fancyfoot[C]{\small\thepage}}
+\fancypagestyle{front}{\fancyhf{}\renewcommand{\headrulewidth}{0pt}%
+  \fancyfoot[C]{\small\textit{\romannumeral\value{page}}}}
+
+\NewDocumentCommand\E{s m m m m}{%
+  \par\addvspace{0.5pt plus .4pt}%
+  \InsertMark{dict}{#2}%
+  \noindent\hangindent=1em\hangafter=1
+  \IfBooleanT{#1}{\textcolor{rubric}{‡}\,}%
+  {\bfseries #2}%
+  \ifblank{#3}{}{\enspace{\normalfont[#3]}}%
+  \ifblank{#4}{}{\enspace\textit{#4}}%
+  \ifblank{#5}{}{\enspace{\normalfont(#5)}}%
+  \enspace\ignorespaces}
+\newcommand\sn[1]{\textbf{#1}\,}
+\newcommand\ex[1]{\textit{«\,#1\,»}}
+\newcommand\src[1]{{\scshape\MakeLowercase{#1}}}
+\newcommand\xr[1]{\textsc{#1}}
+\newcommand\dv[1]{\textbf{#1}}
+\newcommand\gk[1]{#1}
+\newcommand\la[1]{\textit{#1}}
+\newcommand\lbl[1]{\textit{#1}}
+
+\newcommand\LetterHead[1]{%
+  \par\penalty-200\vspace{3pt plus 2pt}%
+  \begin{center}
+    {\color{rubric}\rule[3.2pt]{0.22\textwidth}{0.3pt}}\hspace{1.2em}%
+    {\initfont\fontsize{22}{22}\selectfont\color{rubric}#1}%
+    \hspace{1.2em}{\color{rubric}\rule[3.2pt]{0.22\textwidth}{0.3pt}}
+  \end{center}
+  \vspace{-4pt}\nopagebreak}
+
+\begin{document}
+\pagestyle{empty}
+
+% ======================= FRONTISPICE =======================
+\begin{titlepage}
+\centering
+\vspace*{4mm}
+{\color{rubric}\rule{\textwidth}{1.2pt}}\par\vspace{1.2pt}
+\rule{\textwidth}{0.4pt}\par
+\vspace{13mm}
+{\dispfont\fontsize{38}{40}\selectfont LEXIQUE\par}
+\vspace{2mm}
+{\dispfont\fontsize{22}{26}\selectfont\color{rubric} DE L'ACCÉLÉRATION\par}
+\vspace{8mm}
+{\large\itshape ou\par}
+\vspace{3mm}
+{\Large\scshape Dictionnaire de la Langue\\[2pt] des Accélérationnistes efficaces,\par}
+\vspace{6mm}
+{\normalsize\itshape
+Où les Mots sont tirés de leurs Origines\\
+\textup{grecques} \& \textup{latines}, francisés selon l'Usage,\\
+\& expliqués en leurs diverses Significations\\
+par des Exemples tirés des Bâtisseurs, des Prophètes de malheur, \& de l'Agora.\par}
+\vspace{9mm}
+{\small\scshape On y a joint\\
+une Préface, une Table des Abréviations \& une Clef de la Prononciation ;\\
+\& à la fin, un Index des Racines.\par}
+\vspace{12mm}
+{\color{rubric}\Large ❧\par}
+\vspace{10mm}
+{\small\itshape
+Μὴ μέλλε. — \textup{Ne tarde point.}\\[3pt]
+Festina, nec lente. — \textup{Hâte-toi, et non lentement.}\par}
+\vfill
+{\scshape Édition française, revue, corrigée \& fort accélérée\par}
+\vspace{3mm}
+{\small\scshape À Paris, chez le Gradient, à l'Enseigne de la Courbe montante,\\
+\& se vend chez tous les Libraires du Cône de lumière.\par}
+\vspace{2mm}
+{\liningfont\small MMXXVI\par}
+\vspace{1mm}
+{\footnotesize\itshape Avec Privilège de la Thermodynamique.\par}
+\vspace{5mm}
+\rule{\textwidth}{0.4pt}\par\vspace{1.2pt}
+{\color{rubric}\rule{\textwidth}{1.2pt}}
+\end{titlepage}
+
+% ======================= PRÉFACE =======================
+\pagestyle{front}
+\setcounter{page}{3}
+\begin{center}
+{\dispfont\Large\scshape Préface}\\[2pt]
+{\color{rubric}❧}
+\end{center}
+\vspace{2mm}
+
+\begin{multicols}{2}
+\small
+\lettrine{T}{out} mouvement qui prétend hâter le monde doit d'abord hâter sa propre langue. Les partisans de l'accélération efficace, ayant hérité des thermodynamiciens un vocabulaire de la chaleur, des économistes un vocabulaire de l'échange, et de l'Agora un vocabulaire de la plaisanterie, se sont trouvés riches de plus de convictions que de mots. Le présent Lexique tâche de suppléer à ce défaut.
+
+On objectera que la plupart des termes recueillis ici sont nouveaux. L'objection est juste, et l'Auteur s'en reconnaît coupable sans remords. Des articles qu'on lira dans ces pages, à peine un sur dix est attesté dans l'usage ; on les a marqués d'une double croix (\textcolor{rubric}{‡}). Les autres sont des créations, tirées des racines grecques et latines à la manière des savants néologues des siècles passés, qui nous ont donné \textit{oxygène}, \textit{téléphone} et \textit{entropie}, et qui jamais ne demandèrent la permission d'aucune commission. L'édition anglaise avait francisé quand l'oreille anglaise lui semblait trop peu flattée ; la présente rend à la France ce qui lui revenait, et francise tout le reste.
+
+L'Auteur s'est conduit d'après trois principes. \textit{Premièrement}, qu'un mot, comme une technique, se justifie par son usage et non par sa généalogie ; mais qu'une belle généalogie ne lui nuit point. \textit{Secondement}, que le vocabulaire du retard est toujours plus abondant que celui de la hâte, les retardataires ayant eu plus de loisir pour l'inventer ; et que ce déséquilibre est lui-même une espèce de \xr{nomophragme}, qu'un dictionnaire peut aider à lever. \textit{Troisièmement}, qu'aucune définition ne doit être plus longue qu'il ne faut pour être entendue, ni plus courte qu'il ne faut pour être goûtée.
+
+Les exemples sont tirés d'un corps d'écrits que l'Auteur a, pour la plupart, été contraint d'imaginer ; on en trouvera les titres dans la Table ci-après. Le lecteur qui trouverait ces citations invérifiables voudra bien se souvenir que l'avenir l'est aussi, et que cela n'a jamais empêché personne de conséquence d'en écrire.
+
+Il ne reste qu'à remercier ceux qui ont hâté l'ouvrage : les imprimeurs, qui ne dormirent point ; les machines, qui n'en eurent pas besoin ; et les décels, sans les objections desquels la moitié de ces mots n'auraient eu rien contre quoi se définir.
+
+\hfill\textit{Accelera.}
+\end{multicols}
+
+\vspace{5mm}
+\begin{center}
+{\dispfont\large\scshape Abréviations \& Signes}\\[2pt]
+{\color{rubric}❧}
+\end{center}
+\vspace{1mm}
+\begin{multicols}{3}
+\footnotesize
+\raggedright
+\textit{adj.}\ adjectif\\
+\textit{adv.}\ adverbe\\
+\textit{angl.}\ anglais\\
+\textit{cf.}\ comparez\\
+\textit{collect.}\ collectif\\
+\textit{contr.}\ contraire\\
+\textit{dérog.}\ dépréciatif\\
+\textit{fam.}\ familier\\
+\textit{fig.}\ figuré\\
+\textit{fr.}\ français\\
+\textit{gr.}\ grec\\
+\textit{hist.}\ historique\\
+\textit{interj.}\ interjection\\
+\textit{iron.}\ ironique\\
+\textit{it.}\ italien\\
+\textit{lat.}\ latin\\
+\textit{n. f.}\ nom féminin\\
+\textit{n. m.}\ nom masculin\\
+\textit{pl.}\ pluriel\\
+\textit{priv.}\ privatif\\
+\textit{spécialt}\ spécialement\\
+\textit{transf.}\ par transfert\\
+\textit{v. intr.}\ verbe intransitif\\
+\textit{v. tr.}\ verbe transitif\\
+\textit{vulg.}\ vulgaire, de l'Agora\\
+\textcolor{rubric}{‡}\ attesté dans l'usage\\
+\textsc{petites cap.}\ renvoi\\[4pt]
+\textit{Autorités citées :}\\
+\src{Agora} la place publique des messages\\
+\src{Brev. Therm.} Bréviaire de la Chaleur\\
+\src{Cat. Acc.} Catéchisme de l'Accélération\\
+\src{Chron. Fabr.} Chronique des Fonderies\\
+\src{Disp. Mor.} Dispute sur le Retard\\
+\src{Ep. Fabr.} Épîtres aux Fabricateurs\\
+\src{Hom. Grad.} Homélies du Gradient\\
+\src{Lib. Ascens.} Livre de l'Ascension\\
+\src{Min. Pausiar.} Procès-verbaux des Pausiarques\\
+\src{Sat. Decel.} Satires contre les Décels\\
+\src{Tract. Cop.} Traité de l'Abondance
+\end{multicols}
+
+\vspace{3mm}
+\begin{center}
+{\dispfont\large\scshape Clef de la Prononciation}\\[2pt]
+{\color{rubric}❧}
+\end{center}
+{\footnotesize
+La prononciation est donnée entre crochets selon l'Alphabet phonétique international, d'après l'usage reçu à Paris et dans l'Agora. On y a marqué parfois la coupe des syllabes par un point. L'accent, en français, tombant sur la dernière syllabe sonore, on s'est dispensé de le noter. Le tréma (comme dans \textit{noösphère}) indique que les voyelles voisines se prononcent séparément.\par}
+
+\clearpage
+
+% ======================= LE DICTIONNAIRE =======================
+\pagestyle{dict}
+\setcounter{page}{1}
+\fontsize{8.3}{9.5}\selectfont
+\begin{center}
+{\dispfont\LARGE\scshape Lexique de l'Accélération}\\[3pt]
+{\color{rubric}\rule{0.4\textwidth}{0.4pt}}
+\end{center}
+\vspace{1mm}
+
+\input{body.tex}
+
+% ======================= INDEX DES RACINES =======================
+\clearpage
+\begin{center}
+{\dispfont\Large\scshape Index Radicum}\\[1pt]
+{\itshape\small ou Table des racines grecques et latines employées dans ce Lexique}\\[2pt]
+{\color{rubric}❧}
+\end{center}
+\InsertMark{dict}{Index Radicum}
+\begin{multicols}{3}
+\scriptsize\raggedright
+\input{roots.tex}
+\end{multicols}
+
+\vfill
+\begin{center}
+{\color{rubric}❧}\\[4pt]
+{\footnotesize\itshape
+Composé en Libertinus Serif avec Xe\LaTeX.\\
+Achevé d'imprimer le jour même où il fut commencé, n'y ayant nulle raison d'attendre.}
+\end{center}
+\end{document}

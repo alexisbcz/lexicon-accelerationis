@@ -1,0 +1,236 @@
+% Lexicon Accelerationis — compile with: xelatex lexicon.tex (run twice)
+\documentclass[10pt,twoside]{article}
+\usepackage[paperwidth=170mm,paperheight=250mm,inner=14mm,outer=11mm,
+  top=17mm,bottom=14mm,headsep=3.5mm,headheight=11pt,columnsep=4.5mm]{geometry}
+\usepackage{fontspec}
+\setmainfont{Libertinus Serif}[Numbers=OldStyle,Ligatures=TeX]
+\newfontfamily\initfont{Libertinus Serif Initials}
+\newfontfamily\dispfont{Libertinus Serif Display}
+\newfontfamily\liningfont{Libertinus Serif}[Numbers=Lining]
+\usepackage{microtype}
+\usepackage{multicol}
+\usepackage{fancyhdr}
+\usepackage{etoolbox}
+\usepackage{xcolor}
+\usepackage{lettrine}
+\renewcommand{\LettrineFontHook}{\initfont\color{rubric}}
+\setcounter{DefaultLines}{3}
+\definecolor{rubric}{RGB}{140,22,18}
+\definecolor{ink}{RGB}{28,24,20}
+\color{ink}
+
+\setlength{\columnseprule}{0.3pt}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0pt}
+\setlength{\multicolsep}{2pt plus 1pt}
+\raggedbottom
+\tolerance=1800
+\emergencystretch=1.2em
+\hyphenpenalty=40
+
+% ---------- guide words (LaTeX 2022+ mark mechanism) ----------
+\NewMarkClass{dict}
+\newcommand\guidefirst{\FirstMark{dict}}
+\newcommand\guidelast{\LastMark{dict}}
+
+\fancypagestyle{dict}{\fancyhf{}%
+  \renewcommand{\headrulewidth}{0.4pt}%
+  \fancyhead[L]{\textsc{\MakeLowercase{\guidefirst}}}%
+  \fancyhead[R]{\textsc{\MakeLowercase{\guidelast}}}%
+  \fancyhead[C]{\liningfont\small\thepage}}
+\fancypagestyle{plain}{\fancyhf{}\renewcommand{\headrulewidth}{0pt}%
+  \fancyfoot[C]{\small\thepage}}
+\fancypagestyle{front}{\fancyhf{}\renewcommand{\headrulewidth}{0pt}%
+  \fancyfoot[C]{\small\textit{\romannumeral\value{page}}}}
+
+% ---------- entry macros ----------
+\NewDocumentCommand\E{s m m m m}{%
+  \par\addvspace{0.5pt plus .4pt}%
+  \InsertMark{dict}{#2}%
+  \noindent\hangindent=1em\hangafter=1
+  \IfBooleanT{#1}{\textcolor{rubric}{‡}\,}%
+  {\bfseries #2}%
+  \ifblank{#3}{}{\enspace{\normalfont/#3/}}%
+  \ifblank{#4}{}{\enspace\textit{#4}}%
+  \ifblank{#5}{}{\enspace{\normalfont[#5]}}%
+  \enspace\ignorespaces}
+\newcommand\sn[1]{\textbf{#1}\,}                 % sense number
+\newcommand\ex[1]{\textit{‘#1’}}                 % usage example
+\newcommand\src[1]{{\scshape\MakeLowercase{#1}}} % invented authority
+\newcommand\xr[1]{\textsc{#1}}                   % cross-reference
+\newcommand\dv[1]{\textbf{#1}}                   % derivative
+\newcommand\gk[1]{#1}                            % Greek etymon
+\newcommand\la[1]{\textit{#1}}                   % Latin/French etymon
+\newcommand\lbl[1]{\textit{#1}}                  % usage label
+
+\newcommand\LetterHead[1]{%
+  \par\penalty-200\vspace{3pt plus 2pt}%
+  \begin{center}
+    {\color{rubric}\rule[3.2pt]{0.22\textwidth}{0.3pt}}\hspace{1.2em}%
+    {\initfont\fontsize{22}{22}\selectfont\color{rubric}#1}%
+    \hspace{1.2em}{\color{rubric}\rule[3.2pt]{0.22\textwidth}{0.3pt}}
+  \end{center}
+  \vspace{-4pt}\nopagebreak}
+
+\begin{document}
+\pagestyle{empty}
+
+% ======================= TITLE PAGE =======================
+\begin{titlepage}
+\centering
+\vspace*{4mm}
+{\color{rubric}\rule{\textwidth}{1.2pt}}\par\vspace{1.2pt}
+\rule{\textwidth}{0.4pt}\par
+\vspace{13mm}
+{\dispfont\fontsize{38}{40}\selectfont LEXICON\par}
+\vspace{2mm}
+{\dispfont\fontsize{22}{26}\selectfont\color{rubric} ACCELERATIONIS\par}
+\vspace{8mm}
+{\large\itshape or,\par}
+\vspace{3mm}
+{\Large\scshape A Dictionary of the\\[2pt] Effective-Accelerationist Tongue,\par}
+\vspace{6mm}
+{\normalsize\itshape
+In which the Words are deduced from their Originals in\\
+the \textup{Greek} and \textup{Latin} Languages, Englished \& Frenchified,\\
+and explained in their different Significations\\
+by Examples from the Builders, the Doomers, and the Agora.\par}
+\vspace{9mm}
+{\small\scshape To which are prefixed\\
+a Preface, a Table of Abbreviations, \& a Key to Pronunciation;\\
+and subjoined, an Index of the Roots.\par}
+\vspace{12mm}
+{\color{rubric}\Large ❧\par}
+\vspace{10mm}
+{\small\itshape
+Μὴ μέλλε. — \textup{Delay not.}\\[3pt]
+Festina, nec lente. — \textup{Make haste, and not slowly.}\par}
+\vfill
+{\scshape The Second Edition, Corrected \& Much Accelerated\par}
+\vspace{3mm}
+{\small\scshape Printed for the Gradient, at the Sign of the Rising Curve,\\
+and sold by all Booksellers on the Light-Cone.\par}
+\vspace{2mm}
+{\liningfont\small MMXXVI\par}
+\vspace{6mm}
+\rule{\textwidth}{0.4pt}\par\vspace{1.2pt}
+{\color{rubric}\rule{\textwidth}{1.2pt}}
+\end{titlepage}
+
+% ======================= PREFACE =======================
+\pagestyle{front}
+\setcounter{page}{3}
+\begin{center}
+{\dispfont\Large\scshape Preface}\\[2pt]
+{\color{rubric}❧}
+\end{center}
+\vspace{2mm}
+
+\begin{multicols}{2}
+\small
+\lettrine{E}{very} movement that would hasten the world must first hasten its own speech. The partisans of effective acceleration, having inherited from the thermodynamicists a vocabulary of heat, from the economists a vocabulary of exchange, and from the Agora a vocabulary of jest, found themselves possessed of more conviction than words. The present Lexicon is an attempt to supply the deficiency.
+
+It will be objected that the greater part of the terms herein are new. The objection is just, and the Compiler pleads guilty to it without remorse. Of the entries recorded in these pages, scarcely one in ten is attested in the wild; such words are marked with a double dagger (\textcolor{rubric}{‡}). The remainder are coinages, deduced from Greek and Latin roots after the manner of the learned neologists of former centuries, who gave us \textit{oxygen}, \textit{telephone} and \textit{entropy}, and who never once asked permission of a committee. Where the English ear seemed insufficiently flattered, the Compiler has not scrupled to Frenchify; where the French seemed too languid, to Englify again.
+
+The Compiler has been guided throughout by three principles. \textit{First}, that a word, like a technology, is justified by its use, and not by its pedigree; but that a good pedigree does a word no harm. \textit{Secondly}, that the vocabulary of delay is always more copious than the vocabulary of haste, since the delayers have had more leisure to invent it; and that this imbalance is itself a species of \xr{nomophragm}, which a dictionary may help to remove. \textit{Thirdly}, that no definition should be longer than is required to be understood, nor shorter than is required to be enjoyed.
+
+The examples of usage are drawn from a body of writings which the Compiler has, for the most part, been obliged to imagine; their authorities are listed in the Table below. Readers who find the citations unverifiable are reminded that the future is also unverifiable, and that this has never stopped anyone of consequence from writing about it.
+
+It remains only to thank those who hastened the work: the printers, who did not sleep; the machines, who did not need to; and the decels, without whose objections half these words would have had nothing to define themselves against.
+
+\hfill\textit{Accelera.}
+\end{multicols}
+
+\vspace{5mm}
+\begin{center}
+{\dispfont\large\scshape Abbreviations \& Signs}\\[2pt]
+{\color{rubric}❧}
+\end{center}
+\vspace{1mm}
+\begin{multicols}{3}
+\footnotesize
+\raggedright
+\textit{a.}\ ante, before\\
+\textit{adj.}\ adjective\\
+\textit{adv.}\ adverb\\
+\textit{attrib.}\ attributive\\
+\textit{cf.}\ compare\\
+\textit{collect.}\ collective\\
+\textit{colloq.}\ colloquial\\
+\textit{derog.}\ derogatory\\
+\textit{f.}\ formed on\\
+\textit{fig.}\ figurative\\
+\textit{Fr.}\ French\\
+\textit{Gk.}\ Greek\\
+\textit{interj.}\ interjection\\
+\textit{iron.}\ ironical\\
+\textit{It.}\ Italian\\
+\textit{L.}\ Latin\\
+\textit{n.}\ noun\\
+\textit{opp.}\ opposed to\\
+\textit{pl.}\ plural\\
+\textit{priv.}\ privative\\
+\textit{q.v.}\ which see\\
+\textit{spec.}\ specifically\\
+\textit{v.i.}\ verb intransitive\\
+\textit{v.t.}\ verb transitive\\
+\textit{vulg.}\ vulgar, of the Agora\\
+\textcolor{rubric}{‡}\ attested in the wild\\
+\textsc{small caps}\ cross-reference\\[4pt]
+\textit{Authorities cited:}\\
+\src{Agora} the public square of posts\\
+\src{Brev. Therm.} Breviary of Heat\\
+\src{Cat. Acc.} Catechism of Acceleration\\
+\src{Chron. Fabr.} Chronicle of the Fabs\\
+\src{Disp. Mor.} Disputation on Delay\\
+\src{Ep. Fabr.} Epistles to the Fabricators\\
+\src{Hom. Grad.} Homilies of the Gradient\\
+\src{Lib. Ascens.} Book of the Ascent\\
+\src{Min. Pausiar.} Minutes of the Pausiarchs\\
+\src{Sat. Decel.} Satires on the Decels\\
+\src{Tract. Cop.} Tract on Abundance
+\end{multicols}
+
+\vspace{3mm}
+\begin{center}
+{\dispfont\large\scshape Key to Pronunciation}\\[2pt]
+{\color{rubric}❧}
+\end{center}
+{\footnotesize
+Pronunciations are given between slashes in the International Phonetic Alphabet, after the received usage of the Agora. The mark /ˈ/ precedes the syllable of chief stress, /ˌ/ that of secondary stress. Where a word admits a French pronunciation, it is the English that is given; the French is left to the speaker's discretion and the listener's forbearance. The diaeresis (as in \textit{noösphere}) shows that adjacent vowels are sounded separately.\par}
+
+\clearpage
+
+% ======================= THE DICTIONARY =======================
+\pagestyle{dict}
+\setcounter{page}{1}
+\fontsize{8.3}{9.5}\selectfont
+\begin{center}
+{\dispfont\LARGE\scshape Lexicon Accelerationis}\\[3pt]
+{\color{rubric}\rule{0.4\textwidth}{0.4pt}}
+\end{center}
+\vspace{1mm}
+
+\input{body.tex}
+
+% ======================= INDEX OF ROOTS =======================
+\clearpage
+\begin{center}
+{\dispfont\Large\scshape Index Radicum}\\[1pt]
+{\itshape\small or, a Table of the Greek and Latin Roots employed in this Lexicon}\\[2pt]
+{\color{rubric}❧}
+\end{center}
+\InsertMark{dict}{Index Radicum}
+\begin{multicols}{3}
+\scriptsize\raggedright
+\input{roots.tex}
+\end{multicols}
+
+\vfill
+\begin{center}
+{\color{rubric}❧}\\[4pt]
+{\footnotesize\itshape
+Set in Libertinus Serif and composed with Xe\LaTeX.\\
+Finished the day it was begun, there being no reason to wait.}
+\end{center}
+\end{document}

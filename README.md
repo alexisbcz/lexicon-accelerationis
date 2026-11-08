@@ -1,0 +1,59 @@
+# Lexicon Accelerationis
+
+*or, A Dictionary of the Effective-Accelerationist Tongue* — with its French edition, *Lexique de l'Accélération*.
+
+A dense, two-column dictionary in the classical manner (Johnson, Littré, Trévoux), set in LaTeX. It gives the vocabulary of effective accelerationism (e/acc) as a learned lexicon. **680 entries, of which fewer than 2% are attested words.** The rest are neologisms coined from Greek and Latin roots, then Englished or Frenchified.
+
+| Edition | PDF | Pages |
+|---|---|---|
+| English | [`lexicon.pdf`](lexicon.pdf) | 32 |
+| Français | [`fr/lexique.pdf`](fr/lexique.pdf) | 34 |
+
+Each entry gives:
+
+**thermodicy** /θɜːˈmɒdɪsi/ *n.* [Gk. θερμός hot + δίκη justice, after *theodicy*] The justification of the ways of the second law to man; the argument that the universe's tendency toward dissipation is not cruel but generative. *'The thermodicy answers: suffering is a gradient, and gradients are there to be climbed.'* BREV. THERM. vii.
+
+That is: the headword, IPA pronunciation, part of speech, an etymology with the Greek in Greek script, numbered senses, quotations from invented authorities, derivatives, and cross-references in small caps. Words marked ‡ are attested in the wild. Each book also has:
+
+- a title page in the 18th-century manner
+- a preface
+- tables of abbreviations and invented sources
+- a key to pronunciation
+- an *Index Radicum*, a table of every Greek and Latin root used (about 625), each listed with the words built from it
+
+Sample words: *nomophragm* (a rule that prevents the thing it governs), *epistolopause* (an open letter demanding a halt), *fibulophobia* (fear of paperclips), *campsis* (the knee of the curve), *eleutherergy* (free energy, in Greek), *bradyerie* (the whole establishment of delay), *protobathmic / deuterobathmic / tritobathmic* (the rungs of the Kardashev ladder), *chortotherapy* (touching grass).
+
+## Layout
+
+```
+lexicon.tex        English master file (front matter, layout, macros)
+build.py           sorts src/*.tex, inserts letter heads, checks cross-refs,
+                   generates body.tex and roots.tex (Index Radicum)
+src/*.tex          English entries
+fr/lexique.tex     French master file
+fr/build_fr.py     French build (maps English cross-refs to French headwords)
+fr/src/*.tex       French entries (each preceded by a %EN line naming its source)
+```
+
+Entries are written as:
+
+```latex
+\E{headword}{IPA}{part of speech}{etymology} Definition… \ex{quotation} \src{Cat. Acc.} 3. --- \dv{derivative} \textit{n.} Cf. \xr{other-headword}.
+```
+
+`\E*{…}` marks an attested word. Later files override earlier ones that have the same headword.
+
+## Building
+
+You need XeLaTeX (TeX Live with `texlive-xetex`), the Libertinus fonts, and, for the French edition, `babel-french`.
+
+```sh
+python3 build.py && xelatex lexicon.tex && xelatex lexicon.tex
+cd fr && python3 build_fr.py && xelatex lexique.tex && xelatex lexique.tex
+```
+
+Run XeLaTeX twice so that the guide words at the top of each page are right.
+
+## License
+
+Text, typography and code are licensed under [Creative Commons Attribution 4.0 International](LICENSE) (CC BY 4.0).

@@ -684,3 +684,160 @@ The musical vocabulary of acceleration.
 - **The Launch Pad**: a demo-day venue
 - **Salon Prométhée**: dinner series
 - **Absolute Zero**: an ice-cream shop
+
+---
+
+## XXXVIII. The Norse forge
+
+- **Draupnir Capital**: a compounding fund, after Odin's ring, which dripped eight more rings every ninth night
+- **Muspel Energy**: after Muspelheim, the realm of fire
+- **Ginnungagap Ventures**: "the yawning void" before creation; pre-seed
+- **Sindri Works** and **Eitri Foundry**: after the dwarf smiths who forged the gods' treasures
+- **Skidbladnir**: deployable structures, after the ship that folds into a pouch
+- **Gjallarhorn**: alerting and incident response
+- **Gungnir**: precision guidance, after the spear that never misses
+- ⚠ *Yggdrasil*, *Bifröst*, *Valhalla*, *Brokkr*: crowded
+
+---
+
+## XXXIX. Nile and Euphrates
+
+- **Imhotep Works**: engineering, after the first engineer whose name history records
+- **Nilometer**: forecasting, after the stairs that measured the flood and set the year's taxes
+- **Benben**: a first-mover fund, after the mound that first rose from the waters
+- **Ziggurat Compute**: stacked data centres
+- **Etemenanki**: the tallest tower in Babylon; vertical construction
+- **Ptah Robotics**: after the craftsman god who made the world by speech and by hand
+- **Shadoof**: irrigation robotics
+- **Djed Institute**: "stability"; reserved for the decels
+
+---
+
+## XL. Vedic and Sanskrit
+
+- **Tapas Energy**: in Sanskrit *tapas* is the inner heat of discipline; the collision with Spanish small plates is a feature
+- **Vishvakarma**: construction, after the architect of the gods
+- **Kalpa Capital**: a fund measured in eons
+- **Akasha**: networking, after the aether
+- **Yuga**: a long-horizon media brand
+- **Prana Bio**: "breath, vital force"
+- **Surya Peribole**: space solar ("sun")
+- ⚠ *Agni*, *Shakti*: crowded
+
+---
+
+## XLI. Chinese legend
+
+- **Kuafu Solar**: after the giant who chased the sun across the sky
+- **Yugong Tunnelling**: after the Foolish Old Man who moved the mountains, one basket at a time
+- **Nüwa Climate**: after the goddess who mended the broken sky
+- **Jingwei**: persistence software, after the bird that tries to fill the sea with pebbles
+- **Pangu Compute**: after the giant who separated heaven and earth
+- **Houyi Institute**: after the archer who shot down nine of ten suns; a decel think tank, satirically
+- **Zhurong Fusion**: after the god of fire
+
+---
+
+## XLII. Mesoamerica and the New Fire
+
+- **New Fire**: energy, after the ceremony that relit every hearth at the end of each 52-year cycle
+- **Xiuhmolpilli**: the "binding of the years"; long-dated bonds
+- **Tonatiuh Orbital**: after the sun
+- **Calmecac**: an engineering school
+- **Tlaloc Water**: desalination, after the rain god
+
+---
+
+## XLIII. Polynesian wayfinding
+
+- **Etak**: logistics, after the navigational frame in which the islands move past the canoe
+- **Vaka Launch**: "canoe"
+- **Star Compass**: navigation software
+- **Mana Grid**: energy, after the power that dwells in persons and things
+- **Te Lapa**: sensing, after the underwater flashes navigators use to find land
+- ⚠ *Hōkūleʻa* is a real voyaging canoe; *Wayfinder* is crowded
+
+---
+
+## XLIV. The printing revolution
+
+- **Incunabula**: a seed fund (from Latin for "cradle"; books printed before 1501)
+- **Aldine Press**: publishing, after the Venetian printer who invented the pocket book
+- **Movable Type**: modular hardware
+- **Colophon**: a newsletter
+- **Fleuron**: design studio
+- **Quire**: document AI
+- **Folio Capital**
+
+---
+
+## XLV. Railways and Victorian engineering
+
+- **Permanent Way**: infrastructure, the old name for the railway track
+- **Great Western Gradient**: a transport fund
+- **Navvy Robotics**: earthmoving, after the labourers who dug the railways
+- **Gauge War**: a debate podcast
+- **Atmospheric**: a hyperloop satire, after the railway pulled by vacuum that failed in a year
+- **Bradshaw**: scheduling software, after the railway timetable
+- **Viaduct**: data pipelines
+
+---
+
+## XLVI. Isotopes and elements
+
+- **Tritium Works**: fusion fuel
+- **Deuteron**: fusion
+- **Helium-3 Holdings**: lunar mining
+- **Thorium Age**: reactors
+- **Lithium-6**: breeding blankets
+- **Hafnium**: chip materials
+- **Gallium Works**: power electronics
+- **Rhenium**: rocket engines
+
+---
+
+## XLVII. Latin mottos for funds
+
+- **Audentes Capital**: from *audentes fortuna iuvat* ("fortune favours the bold")
+- **Faber Capital**: from *faber est quisque fortunae suae* ("each is the smith of their own fortune")
+- **Sapere Aude Labs**: "dare to know"
+- **Carpe Gradientem**: "seize the gradient"
+- **Ex Nihilo Ventures**
+- **Nec Plus Ultra**: reserved, ironically, for the decels ("nothing further")
+- ⚠ *Ad Astra*: crowded
+
+---
+
+## XLVIII. Evolution and the tree of life
+
+- **Ediacara Bio**: after the first large animals
+- **Burgess Labs**: after the shale that preserved the Cambrian explosion
+- **LUCA Bio**: the last universal common ancestor
+- **Endosymbiont**: partnerships, after the merger that made the eukaryotic cell
+- **Eukaryon**: a platform company
+- **Punctuated**: a newsletter, after punctuated equilibrium
+- ⚠ *Cambrian*: crowded
+
+---
+
+## XLIX. Winds
+
+- **Föhn**: heat pumps, after the warm mountain wind
+- **Sirocco**: thermal storage
+- **Harmattan**: desert solar
+- **Bora**: wind power
+- **Simoom**: dust and filtration
+- ⚠ *Mistral* (an AI company), *Zephyr*, *Chinook*: taken
+
+---
+
+## L. Luxury houses and fragrances
+
+- **Maison Exergie**: a fashion house
+- **Atelier Archipyre**: jewellery
+- **Lampadephore Paris**: candles
+- **Eau de Gradient**: fragrance
+- **Ambre Fusion**: fragrance
+- **Heat Death**: a fragrance with notes of cold metal and nothing
+- **Thermidor Couture**
+- **Kardashev No. 1**: fragrance, a quiet nod to the one-to-three scale

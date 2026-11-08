@@ -684,3 +684,160 @@ Le vocabulaire musical de l'accélération.
 - **La Rampe** : salle pour les journées de démonstration
 - **Salon Prométhée** : cycle de dîners
 - **Zéro Absolu** : glacier
+
+---
+
+## XXXVIII. La forge nordique
+
+- **Draupnir Capital** : un fonds qui se capitalise, d'après l'anneau d'Odin dont naissaient huit anneaux chaque neuvième nuit
+- **Muspel Énergie** : d'après Muspellheim, le royaume du feu
+- **Ginnungagap Ventures** : « le vide béant » d'avant la création ; pré-amorçage
+- **Sindri Works** et **Eitri Foundry** : d'après les nains forgerons qui façonnèrent les trésors des dieux
+- **Skidbladnir** : structures déployables, d'après le navire qui se plie dans une bourse
+- **Gjallarhorn** : alertes et réponse aux incidents
+- **Gungnir** : guidage de précision, d'après la lance qui ne manque jamais
+- ⚠ *Yggdrasil*, *Bifröst*, *Valhalla*, *Brokkr* : encombrés
+
+---
+
+## XXXIX. Le Nil et l'Euphrate
+
+- **Imhotep Works** : ingénierie, d'après le premier ingénieur dont l'histoire retienne le nom
+- **Nilomètre** : prévision, d'après l'escalier qui mesurait la crue et fixait l'impôt de l'année
+- **Benben** : fonds pour premiers entrants, d'après la butte qui la première émergea des eaux
+- **Ziggurat Compute** : centres de calcul empilés
+- **Etemenanki** : la plus haute tour de Babylone ; construction verticale
+- **Ptah Robotics** : d'après le dieu artisan qui fit le monde par la parole et par la main
+- **Chadouf** : robotique d'irrigation
+- **Institut Djed** : « stabilité » ; réservé aux décels
+
+---
+
+## XL. Le védique et le sanskrit
+
+- **Tapas Énergie** : en sanskrit, *tapas* est la chaleur intérieure de la discipline ; la collision avec les petites assiettes espagnoles est voulue
+- **Vishvakarma** : construction, d'après l'architecte des dieux
+- **Kalpa Capital** : un fonds qui compte en éons
+- **Akasha** : réseaux, d'après l'éther
+- **Yuga** : un média à long horizon
+- **Prana Bio** : « souffle, force vitale »
+- **Surya Peribole** : solaire spatial (« soleil »)
+- ⚠ *Agni*, *Shakti* : encombrés
+
+---
+
+## XLI. Légendes chinoises
+
+- **Kuafu Solaire** : d'après le géant qui poursuivit le soleil à travers le ciel
+- **Yugong Tunnels** : d'après le Vieux Fou qui déplaça les montagnes, une hotte à la fois
+- **Nüwa Climat** : d'après la déesse qui raccommoda le ciel brisé
+- **Jingwei** : logiciels de persévérance, d'après l'oiseau qui veut combler la mer de cailloux
+- **Pangu Compute** : d'après le géant qui sépara le ciel de la terre
+- **Institut Houyi** : d'après l'archer qui abattit neuf soleils sur dix ; cercle décel, par satire
+- **Zhurong Fusion** : d'après le dieu du feu
+
+---
+
+## XLII. La Mésoamérique et le Feu nouveau
+
+- **Feu Nouveau** : énergie, d'après la cérémonie qui rallumait tous les foyers au terme de chaque cycle de 52 ans
+- **Xiuhmolpilli** : la « ligature des années » ; obligations à très long terme
+- **Tonatiuh Orbital** : d'après le soleil
+- **Calmecac** : école d'ingénieurs
+- **Tlaloc Eau** : dessalement, d'après le dieu de la pluie
+
+---
+
+## XLIII. La navigation polynésienne
+
+- **Etak** : logistique, d'après le repère de navigation où ce sont les îles qui défilent devant la pirogue
+- **Vaka Launch** : « pirogue »
+- **Compas d'étoiles** : logiciel de navigation
+- **Mana Grid** : énergie, d'après la puissance qui habite les êtres et les choses
+- **Te Lapa** : capteurs, d'après les éclairs sous-marins dont les navigateurs se servent pour trouver la terre
+- ⚠ *Hōkūleʻa* est une pirogue de voyage réelle ; *Wayfinder* est encombré
+
+---
+
+## XLIV. La révolution de l'imprimerie
+
+- **Incunabula** : fonds d'amorçage (du latin « berceau » ; livres imprimés avant 1501)
+- **Presse Aldine** : édition, d'après l'imprimeur vénitien qui inventa le livre de poche
+- **Caractère Mobile** : matériel modulaire
+- **Colophon** : une lettre d'information
+- **Fleuron** : studio de design
+- **Cahier** : IA documentaire
+- **Folio Capital**
+
+---
+
+## XLV. Chemins de fer et ingénierie victorienne
+
+- **Voie Permanente** : infrastructures, ancien nom de la voie ferrée
+- **Great Western Gradient** : un fonds de transport
+- **Navvy Robotics** : terrassement, d'après les ouvriers qui creusèrent les chemins de fer
+- **Guerre des Écartements** : balado de débats
+- **Atmosphérique** : satire de l'hyperloop, d'après le chemin de fer tiré par le vide, qui échoua en un an
+- **Bradshaw** : logiciel d'horaires, d'après l'indicateur des chemins de fer
+- **Viaduc** : pipelines de données
+
+---
+
+## XLVI. Isotopes et éléments
+
+- **Tritium Works** : combustible de fusion
+- **Deutéron** : fusion
+- **Helium-3 Holdings** : extraction lunaire
+- **L'Âge du Thorium** : réacteurs
+- **Lithium-6** : couvertures tritigènes
+- **Hafnium** : matériaux pour puces
+- **Gallium Works** : électronique de puissance
+- **Rhénium** : moteurs-fusées
+
+---
+
+## XLVII. Devises latines pour fonds
+
+- **Audentes Capital** : de *audentes fortuna iuvat* (« la fortune sourit aux audacieux »)
+- **Faber Capital** : de *faber est quisque fortunae suae* (« chacun est l'artisan de sa fortune »)
+- **Sapere Aude Labs** : « ose savoir »
+- **Carpe Gradientem** : « saisis le gradient »
+- **Ex Nihilo Ventures**
+- **Nec Plus Ultra** : réservé, par ironie, aux décels (« rien au-delà »)
+- ⚠ *Ad Astra* : encombré
+
+---
+
+## XLVIII. L'évolution et l'arbre du vivant
+
+- **Ediacara Bio** : d'après les premiers grands animaux
+- **Burgess Labs** : d'après les schistes qui conservèrent l'explosion cambrienne
+- **LUCA Bio** : le dernier ancêtre commun universel
+- **Endosymbionte** : partenariats, d'après la fusion qui fit la cellule eucaryote
+- **Eukaryon** : société-plateforme
+- **Ponctué** : une lettre d'information, d'après l'équilibre ponctué
+- ⚠ *Cambrian* : encombré
+
+---
+
+## XLIX. Les vents
+
+- **Föhn** : pompes à chaleur, d'après le vent chaud des montagnes
+- **Sirocco** : stockage thermique
+- **Harmattan** : solaire du désert
+- **Bora** : éolien
+- **Simoun** : poussières et filtration
+- ⚠ *Mistral* (une entreprise d'IA), *Zéphyr*, *Chinook* : pris
+
+---
+
+## L. Maisons de luxe et parfums
+
+- **Maison Exergie** : maison de couture
+- **Atelier Archipyre** : joaillerie
+- **Lampadephore Paris** : bougies
+- **Eau de Gradient** : parfum
+- **Ambre Fusion** : parfum
+- **Mort Thermique** : parfum aux notes de métal froid et de néant
+- **Thermidor Couture**
+- **Kardashev N° 1** : parfum, clin d'œil discret à l'échelle de un à trois

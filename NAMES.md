@@ -841,3 +841,242 @@ The musical vocabulary of acceleration.
 - **Heat Death**: a fragrance with notes of cold metal and nothing
 - **Thermidor Couture**
 - **Kardashev No. 1**: fragrance, a quiet nod to the one-to-three scale
+
+---
+
+## LI. Patron saints
+
+- **St. Elmo Plasma**: plasma physics, after the glowing discharge sailors saw on their masts
+- **Isidore Networks**: after the saint proposed as patron of the internet, who tried to write down all knowledge
+- **Eligius Foundry**: metalworking, after the patron of goldsmiths (*Éloi* in French)
+- **Barbara Works**: mining and explosives, after the patron of miners and artillery
+- **Florian Safety**: fire protection, after the patron of firefighters
+- **Lorenzo Thermal**: heat management, after the deacon martyred on a gridiron, patron of cooks
+- **Clare Broadcast**: streaming, after the patron of television
+
+---
+
+## LII. The first engineers of Greece
+
+- **Aeolipile**: steam turbines, after Hero of Alexandria's spinning steam-ball, the engine nobody used for 1,700 years
+- **Archytas Aero**: drones, after the mechanical dove said to have flown
+- **Ctesibius Pumps**: after the inventor of the force pump and the water clock
+- **Empedocles Geothermal**: after the philosopher said to have leapt into Etna
+- **Heraclitean Fire**: energy ("everything is an ever-living fire")
+- **Philo Pneumatics**: after Philo of Byzantium
+- **Hero Automata**: theatrical robotics, after the self-moving shrines of Alexandria
+- ⚠ *Antikythera*, *Panta Rhei*: crowded
+
+---
+
+## LIII. Celestial mechanics
+
+- **Oort Cloud Storage**: cold storage
+- **Roche Limit**: risk analytics, after the distance at which a body is torn apart by tides
+- **Hill Sphere**: marketing, after a body's zone of gravitational influence
+- **Barycenter**: coordination software, after the common centre two bodies orbit
+- **Kuiper Logistics**: outer-system supply
+- **Pillars Construction**: after the Pillars of Creation
+- ⚠ *Lagrange*, *Andromeda*, *L5 Society*: taken or crowded
+
+---
+
+## LIV. Rocketry
+
+- **Delta-v Capital**
+- **Oberth**: a fund that invests at the bottom of the gravity well; the Oberth effect makes a burn most efficient at the lowest point
+- **Gravity Assist**: an accelerator for startups
+- **Hohmann Logistics**: the cheapest route between two orbits
+- **Apoapsis** and **Periapsis**: twin brands for consumer and enterprise
+- **Specific Impulse**: a newsletter
+- **Staging**: deployment tools
+- ⚠ *Max Q*, *Escape Velocity*: crowded
+
+---
+
+## LV. The Industrial Revolution
+
+- **Jacquard**: compilers, after the punch-card loom, the first programmable machine
+- **Jenny Robotics**: textiles, after the spinning jenny
+- **Open Hearth**: green steel
+- **Water Frame**: hydropower
+- **Drop Forge**: manufacturing
+- **Rolling Mill**: metals
+- **Puddler**: a satirical newsletter for heavy industry
+- ⚠ *Bessemer* is taken (Bessemer Venture Partners)
+
+---
+
+## LVI. Machines from computing's past
+
+- **Whirlwind**: real-time compute, after the MIT machine
+- **Core Memory**: storage
+- **Plugboard**: integration software
+- **Punchcard**: a newsletter
+- **Valve & Relay**: a hardware fund
+- **Analytical**: data science, after Babbage's engine
+- ⚠ *Colossus*, *Enigma*, *Mechanical Turk*: taken
+
+---
+
+## LVII. Paradoxes and thought experiments
+
+- **Laplace**: prediction markets, after the demon who knows every position and velocity
+- **Fermi Estimate**: consulting
+- **Olbers**: lighting, after the paradox of the dark night sky
+- **Twin Paradox**: longevity, after the twin who travels and ages less
+- **Newton's Bucket**: rotation and inertial sensors
+- **Zeno Institute**: a decel think tank, satirically; Achilles never catches the tortoise
+- **Boltzmann Brain**: satirical AI
+- ⚠ *Schrödinger*: crowded
+
+---
+
+## LVIII. Utopian architecture
+
+- **Phalanstère**: co-living, after Fourier's communes
+- **Saline Royale**: planned cities, after Ledoux's ideal city
+- **Boullée Works**: monumental construction, after the architect of a cenotaph for Newton
+- **Tatlin Tower**: tall structures, after the monument that was never built
+- **Crystal Palace**: glass and solar
+- **Arcology**: hyper-dense habitats
+- ⚠ *Plug-in City*, *Ville Radieuse*: closely associated with their authors
+
+---
+
+## LIX. Minerals
+
+- **Moissanite**: power electronics (silicon carbide)
+- **Perovskite Works**: solar cells
+- **Olivine**: carbon capture, after the mineral that weathers by absorbing CO₂
+- **Corundum**: abrasives and optics
+- **Spinel**: armour and optical windows
+- **Zircon**: fuel cladding
+- **Beryl**: beryllium for space
+- ⚠ *Obsidian*: crowded
+
+---
+
+## LX. Endurance animals
+
+- **Godwit Logistics**: after the bar-tailed godwit, which flies 11,000 km without stopping
+- **Arctic Tern**: global shipping, after the longest migration
+- **Pronghorn**: fast logistics, after the antelope that outruns its extinct predators
+- **Sailfish**: maritime drones
+- **Mantis Shrimp**: actuators, after the fastest strike in nature
+- **Bowhead**: longevity, after the whale that lives 200 years
+- ⚠ *Peregrine*, *Tardigrade*, *Swift*: crowded
+
+---
+
+## LXI. Old trades
+
+- **Lamplighter**: an energy cooperative (the English *lampadephore*)
+- **Millwright**: a robotics integrator
+- **Collier**: energy trading
+- **Chandler**: lighting
+- **Wheelwright**: mobility
+- **Fletcher**: guidance systems
+- **Farrier**: legged robotics
+- **Cooper**: containers and storage
+
+---
+
+## LXII. Vatican Latin
+
+- **Nihil Obstat**: permitting software ("nothing hinders")
+- **Imprimatur**: approval workflows ("let it be printed")
+- **Motu Proprio**: tools for founder mode ("of one's own accord")
+- **Urbi et Orbi**: satellite broadband ("to the city and the world")
+- **Ex Cathedra**: a media brand
+- **Habemus**: launch announcements
+- **Curia Gradientis**: a governance consultancy
+
+---
+
+## LXIII. The age of Richelieu (1624–1642)
+
+The Cardinal founded chartered companies, the Académie and the first French newspaper. Names in the manner of his letters patent.
+
+- **Compagnie des Cent-Associés du Gradient**: a syndicate of a hundred angel investors, after the company of New France
+- **Compagnie de la Nacelle Céleste**: space logistics, after the Cardinal's ship company of 1627
+- **Compagnie des Îles Orbitales**: space habitats, after the Company of the American Isles
+- **Bureau d'Adresse**: a job marketplace, after Renaudot's office of 1630, the first employment exchange
+- **La Gazette du Gradient**: media, after Renaudot's *Gazette* of 1631
+- **Ferme Générale du Calcul**: compute leasing, after the royal tax farm
+- **Intendance**: operations software, after the King's intendants
+- **Lettres Patentes**: an IP platform
+- **Éminence Grise**: an AI adviser, after the Cardinal's Capuchin counsellor
+- **Cardinal Capital**
+
+---
+
+## LXIV. Colbert and the Grand Siècle (1661–1715)
+
+- **Manufacture Royale des Glaces Orbitales**: space mirrors, after the royal mirror works (⚠ *Saint-Gobain* descends from it)
+- **Gobelins du Calcul**: chip design, after the royal tapestry works
+- **Compagnie des Indes Orientales et Stellaires**: interstellar trade
+- **Riquet Infrastructures**: after Pierre-Paul Riquet, who financed the Canal du Midi from his own fortune
+- **Observatoire Royal**: space situational awareness
+- **Académie Royale des Machines**
+- **Colbertiste**: an industrial-policy newsletter
+- **Vauban**: defence engineering, after the military engineer
+
+---
+
+## LXV. Consulate and First Empire (1799–1815)
+
+- **Télégraphe Chappe**: networking, after the semaphore line that carried news from Lille to Paris in an hour
+- **Code Gradient**: legal tech, after the Civil Code
+- **Grande Armée Robotics**
+- **Appert**: food preservation, after the confectioner who won Napoleon's prize by inventing canning
+- **Blocus Continental**: a sovereignty fund
+- **Légion de l'Ascension**: a prize for builders
+- **Conservatoire Impérial**: an engineering school
+- **Bureau des Longitudes**: navigation
+- ⚠ *Banque de France*, *Légion d'honneur*: official
+
+---
+
+## LXVI. The Second Empire of Napoleon III (1852–1870)
+
+The years of Haussmann, the Pereire brothers, the Suez Canal and the Universal Exhibitions: France's most accelerationist regime.
+
+- **Crédit Mobilier du Gradient**: an industrial investment bank, after the Pereires' bank, which financed railways across Europe
+- **Compagnie Universelle du Canal Orbital**: space infrastructure, after Lesseps's Suez company
+- **Compagnie PLM: Paris–Lune–Mars**: launch, after the Paris–Lyon–Méditerranée railway
+- **Compagnie Générale Translunaire**: a lunar shuttle, after the Compagnie Générale Transatlantique
+- **Messageries Célestes**: space freight, after the Messageries Impériales
+- **Compagnie Parisienne de la Fusion**: after the Compagnie Parisienne du Gaz
+- **Percée**: urban redevelopment, after Haussmann's boulevards cut through old Paris
+- **Exposition Universelle de l'Ascension**: an annual fair for builders
+- **Société d'Études du Canal Orbital**: feasibility studies
+- **Haussmannienne**: modular facades
+- ⚠ *Crédit Foncier*, *Société Générale*, *Le Bon Marché*, *Le Figaro*, *Le Petit Journal*: real companies founded in this period
+
+---
+
+## LXVII. The Saint-Simonians
+
+The engineers, bankers and prophets of the 1830s, who believed industry was a religion and France a workshop: the e/acc's French ancestors.
+
+- **Le Producteur**: media, after their journal of 1825
+- **Le Globe**: a newsletter
+- **Église Industrielle**: a builders' community
+- **Ménilmontant**: a founders' retreat, after their monastic commune
+- **Système de la Méditerranée**: a transport fund, after Chevalier's plan to bind the Mediterranean with railways
+- **Les Industriels**: a membership network
+- **Le Père Enfantin**: a satirical newsletter
+
+---
+
+## LXVIII. The Belle Époque (1871–1914)
+
+- **Fée Électricité**: a power utility, after the fairy painted on the walls at the 1900 Exhibition
+- **Compagnie Internationale des Wagons-Orbitaux**: luxury space travel
+- **Métropolitain**: urban mobility
+- **Palais de l'Électricité**: a venue
+- **Société des Ballons Dirigeables**: airships
+- **Automobile-Club de l'Ascension**: a mobility club, after the motor clubs of the 1890s
+- **La Nature**: a science magazine, after the popular review
+- ⚠ *Eiffel*, *Michelin*, *Peugeot*, *Pathé*: real houses

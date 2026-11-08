@@ -841,3 +841,242 @@ Le vocabulaire musical de l'accélération.
 - **Mort Thermique** : parfum aux notes de métal froid et de néant
 - **Thermidor Couture**
 - **Kardashev N° 1** : parfum, clin d'œil discret à l'échelle de un à trois
+
+---
+
+## LI. Saints patrons
+
+- **Saint-Elme Plasma** : physique des plasmas, d'après la lueur que les marins voyaient sur leurs mâts
+- **Isidore Networks** : d'après le saint proposé comme patron d'internet, qui voulut consigner tout le savoir
+- **Fonderie Saint-Éloi** : métallurgie, d'après le patron des orfèvres
+- **Barbara Works** : mines et explosifs, d'après la patronne des mineurs et des artilleurs
+- **Florian Sécurité** : protection incendie, d'après le patron des pompiers
+- **Laurent Thermique** : gestion thermique, d'après le diacre martyrisé sur un gril, patron des cuisiniers
+- **Claire Diffusion** : diffusion en continu, d'après la patronne de la télévision
+
+---
+
+## LII. Les premiers ingénieurs de la Grèce
+
+- **Éolipyle** : turbines à vapeur, d'après la sphère à vapeur tournante de Héron d'Alexandrie, la machine que personne n'utilisa pendant 1 700 ans
+- **Archytas Aero** : drones, d'après la colombe mécanique qui aurait volé
+- **Ctésibios Pompes** : d'après l'inventeur de la pompe foulante et de la clepsydre
+- **Empédocle Géothermie** : d'après le philosophe qui se serait jeté dans l'Etna
+- **Feu héraclitéen** : énergie (« tout est un feu toujours vivant »)
+- **Philon Pneumatique** : d'après Philon de Byzance
+- **Héron Automates** : robotique théâtrale, d'après les sanctuaires automates d'Alexandrie
+- ⚠ *Antikythera*, *Panta Rhei* : encombrés
+
+---
+
+## LIII. Mécanique céleste
+
+- **Oort Cloud Storage** : stockage à froid
+- **Limite de Roche** : analyse des risques, d'après la distance à laquelle les marées déchirent un corps
+- **Sphère de Hill** : marketing, d'après la zone d'influence gravitationnelle d'un corps
+- **Barycentre** : logiciels de coordination, d'après le centre commun autour duquel tournent deux corps
+- **Kuiper Logistique** : ravitaillement du système extérieur
+- **Piliers Construction** : d'après les Piliers de la Création
+- ⚠ *Lagrange*, *Andromeda*, *L5 Society* : pris ou encombrés
+
+---
+
+## LIV. Astronautique
+
+- **Delta-v Capital**
+- **Oberth** : un fonds qui investit au fond du puits de gravité ; l'effet Oberth rend une poussée plus efficace au point le plus bas
+- **Assistance Gravitationnelle** : accélérateur de startups
+- **Hohmann Logistique** : la route la moins coûteuse entre deux orbites
+- **Apoapside** et **Périapside** : marques jumelles, pour le grand public et pour l'entreprise
+- **Impulsion Spécifique** : une lettre d'information
+- **Étage** : outils de déploiement
+- ⚠ *Max Q*, *Escape Velocity* : encombrés
+
+---
+
+## LV. La révolution industrielle
+
+- **Jacquard** : compilateurs, d'après le métier à cartes perforées, première machine programmable
+- **Jenny Robotics** : textile, d'après la *spinning jenny*
+- **Sole Ouverte** : acier vert (le four Martin)
+- **Water Frame** : hydroélectricité
+- **Marteau-Pilon** : fabrication
+- **Laminoir** : métaux
+- **Le Puddleur** : lettre satirique de l'industrie lourde
+- ⚠ *Bessemer* est pris (Bessemer Venture Partners)
+
+---
+
+## LVI. Machines du passé informatique
+
+- **Whirlwind** : calcul temps réel, d'après la machine du MIT
+- **Mémoire à Tores** : stockage
+- **Tableau de Connexions** : logiciels d'intégration
+- **Carte Perforée** : une lettre d'information
+- **Lampe & Relais** : un fonds de matériel
+- **Analytique** : science des données, d'après la machine de Babbage
+- ⚠ *Colossus*, *Enigma*, *Mechanical Turk* : pris
+
+---
+
+## LVII. Paradoxes et expériences de pensée
+
+- **Laplace** : marchés prédictifs, d'après le démon qui connaît toutes les positions et toutes les vitesses
+- **Estimation de Fermi** : conseil
+- **Olbers** : éclairage, d'après le paradoxe de la nuit noire
+- **Paradoxe des Jumeaux** : longévité, d'après le jumeau qui voyage et vieillit moins
+- **Le Seau de Newton** : capteurs de rotation et d'inertie
+- **Institut Zénon** : cercle décel, par satire ; Achille ne rattrape jamais la tortue
+- **Cerveau de Boltzmann** : IA satirique
+- ⚠ *Schrödinger* : encombré
+
+---
+
+## LVIII. Architectures utopiques
+
+- **Phalanstère** : habitat partagé, d'après les communautés de Fourier
+- **Saline Royale** : villes planifiées, d'après la cité idéale de Ledoux
+- **Boullée Works** : construction monumentale, d'après l'architecte d'un cénotaphe à Newton
+- **Tour Tatline** : grandes hauteurs, d'après le monument jamais bâti
+- **Crystal Palace** : verre et solaire
+- **Arcologie** : habitats hyperdenses
+- ⚠ *Plug-in City*, *Ville Radieuse* : étroitement liés à leurs auteurs
+
+---
+
+## LIX. Minéraux
+
+- **Moissanite** : électronique de puissance (carbure de silicium)
+- **Pérovskite Works** : cellules solaires
+- **Olivine** : captage du carbone, d'après le minéral qui s'altère en absorbant le CO₂
+- **Corindon** : abrasifs et optique
+- **Spinelle** : blindages et hublots optiques
+- **Zircon** : gaines de combustible
+- **Béryl** : béryllium pour l'espace
+- ⚠ *Obsidian* : encombré
+
+---
+
+## LX. Animaux d'endurance
+
+- **Barge Logistique** : d'après la barge rousse, qui vole 11 000 km sans s'arrêter
+- **Sterne Arctique** : transport maritime mondial, d'après la plus longue migration
+- **Pronghorn** : logistique rapide, d'après l'antilope qui distance des prédateurs disparus
+- **Voilier** : drones maritimes
+- **Squille** : actionneurs, d'après la frappe la plus rapide de la nature
+- **Baleine Boréale** : longévité, d'après la baleine qui vit deux cents ans
+- ⚠ *Peregrine*, *Tardigrade*, *Swift* : encombrés
+
+---
+
+## LXI. Vieux métiers
+
+- **L'Allumeur de Réverbères** : coopérative d'énergie (le *lampadéphore* français)
+- **Millwright** : intégrateur de robotique
+- **Charbonnier** : négoce d'énergie
+- **Chandelier** : éclairage
+- **Charron** : mobilité
+- **Flécheur** : systèmes de guidage
+- **Maréchal-Ferrant** : robotique à pattes
+- **Tonnelier** : conteneurs et stockage
+
+---
+
+## LXII. Latin du Vatican
+
+- **Nihil Obstat** : logiciel de permis (« rien ne s'y oppose »)
+- **Imprimatur** : circuits d'approbation (« qu'il soit imprimé »)
+- **Motu Proprio** : outils du mode fondateur (« de son propre mouvement »)
+- **Urbi et Orbi** : internet par satellite (« à la ville et au monde »)
+- **Ex Cathedra** : un média
+- **Habemus** : annonces de lancement
+- **Curia Gradientis** : conseil en gouvernance
+
+---
+
+## LXIII. Le siècle de Richelieu (1624–1642)
+
+Le Cardinal fonda des compagnies à charte, l'Académie et le premier journal français. Des noms à la manière de ses lettres patentes.
+
+- **Compagnie des Cent-Associés du Gradient** : syndicat de cent investisseurs providentiels, d'après la compagnie de la Nouvelle-France
+- **Compagnie de la Nacelle Céleste** : logistique spatiale, d'après la compagnie maritime du Cardinal de 1627
+- **Compagnie des Îles Orbitales** : habitats spatiaux, d'après la Compagnie des Îles d'Amérique
+- **Bureau d'Adresse** : place de marché de l'emploi, d'après le bureau ouvert par Renaudot en 1630, premier bureau de placement
+- **La Gazette du Gradient** : média, d'après la *Gazette* de Renaudot (1631)
+- **Ferme Générale du Calcul** : location de calcul, d'après la ferme générale des impôts
+- **Intendance** : logiciels d'exploitation, d'après les intendants du roi
+- **Lettres Patentes** : plateforme de propriété intellectuelle
+- **Éminence Grise** : conseiller IA, d'après le capucin qui conseillait le Cardinal
+- **Cardinal Capital**
+
+---
+
+## LXIV. Colbert et le Grand Siècle (1661–1715)
+
+- **Manufacture Royale des Glaces Orbitales** : miroirs spatiaux, d'après la manufacture royale des glaces (⚠ *Saint-Gobain* en descend)
+- **Gobelins du Calcul** : conception de puces, d'après la manufacture royale de tapisseries
+- **Compagnie des Indes Orientales et Stellaires** : commerce interstellaire
+- **Riquet Infrastructures** : d'après Pierre-Paul Riquet, qui finança le canal du Midi sur sa fortune
+- **Observatoire Royal** : surveillance de l'espace
+- **Académie Royale des Machines**
+- **Le Colbertiste** : lettre de politique industrielle
+- **Vauban** : génie militaire, d'après l'ingénieur du roi
+
+---
+
+## LXV. Consulat et Premier Empire (1799–1815)
+
+- **Télégraphe Chappe** : réseaux, d'après la ligne de sémaphores qui portait les nouvelles de Lille à Paris en une heure
+- **Code Gradient** : technologies juridiques, d'après le Code civil
+- **Grande Armée Robotique**
+- **Appert** : conservation des aliments, d'après le confiseur qui gagna le prix de Napoléon en inventant la conserve
+- **Blocus Continental** : fonds de souveraineté
+- **Légion de l'Ascension** : prix des bâtisseurs
+- **Conservatoire Impérial** : école d'ingénieurs
+- **Bureau des Longitudes** : navigation
+- ⚠ *Banque de France*, *Légion d'honneur* : institutions officielles
+
+---
+
+## LXVI. Le Second Empire de Napoléon III (1852–1870)
+
+Les années d'Haussmann, des frères Pereire, du canal de Suez et des Expositions universelles : le régime le plus accélérationniste de l'histoire de France.
+
+- **Crédit Mobilier du Gradient** : banque d'investissement industriel, d'après la banque des Pereire, qui finança les chemins de fer de toute l'Europe
+- **Compagnie Universelle du Canal Orbital** : infrastructures spatiales, d'après la compagnie de Suez de Lesseps
+- **Compagnie PLM : Paris–Lune–Mars** : lanceurs, d'après le Paris–Lyon–Méditerranée
+- **Compagnie Générale Translunaire** : navette lunaire, d'après la Compagnie Générale Transatlantique
+- **Messageries Célestes** : fret spatial, d'après les Messageries impériales
+- **Compagnie Parisienne de la Fusion** : d'après la Compagnie Parisienne du Gaz
+- **Percée** : renouvellement urbain, d'après les boulevards qu'Haussmann ouvrit dans le vieux Paris
+- **Exposition Universelle de l'Ascension** : foire annuelle des bâtisseurs
+- **Société d'Études du Canal Orbital** : études de faisabilité
+- **Haussmannienne** : façades modulaires
+- ⚠ *Crédit Foncier*, *Société Générale*, *Le Bon Marché*, *Le Figaro*, *Le Petit Journal* : entreprises réelles fondées à cette époque
+
+---
+
+## LXVII. Les saint-simoniens
+
+Les ingénieurs, banquiers et prophètes des années 1830, qui tenaient l'industrie pour une religion et la France pour un atelier : les ancêtres français de l'e/acc.
+
+- **Le Producteur** : média, d'après leur journal de 1825
+- **Le Globe** : une lettre d'information
+- **Église Industrielle** : communauté de bâtisseurs
+- **Ménilmontant** : retraite de fondateurs, d'après leur commune monastique
+- **Système de la Méditerranée** : fonds de transport, d'après le plan de Chevalier pour lier la Méditerranée par le rail
+- **Les Industriels** : réseau de membres
+- **Le Père Enfantin** : lettre satirique
+
+---
+
+## LXVIII. La Belle Époque (1871–1914)
+
+- **Fée Électricité** : producteur d'électricité, d'après la fée peinte aux murs de l'Exposition de 1900
+- **Compagnie Internationale des Wagons-Orbitaux** : voyage spatial de luxe
+- **Métropolitain** : mobilité urbaine
+- **Palais de l'Électricité** : lieu d'événements
+- **Société des Ballons Dirigeables** : dirigeables
+- **Automobile-Club de l'Ascension** : club de mobilité, d'après les clubs automobiles des années 1890
+- **La Nature** : magazine scientifique, d'après la revue populaire
+- ⚠ *Eiffel*, *Michelin*, *Peugeot*, *Pathé* : maisons réelles

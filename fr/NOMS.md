@@ -1392,3 +1392,53 @@ Verne donna à ses ingénieurs, financiers et visionnaires tout un monde d'entre
 - **Épouvante Mobilité** : un seul véhicule pour la terre, la mer et l'air
 - **Le Tour du Monde Express** : logistique à délai de livraison garanti
 - **Voyages Extraordinaires** : agence de tourisme spatial, d'après le titre de la série entière de Verne
+
+---
+
+## LXXXIX. Objets légendaires, à la manière de Palantir et d'Anduril
+
+*Palantír* et *Andúril* viennent de Tolkien. Toute une grappe d'entreprises technologiques tire son nom de ses œuvres : Palantir, Anduril, Mithril Capital, Valar Ventures, Narya Capital, Erebor. La recette : un objet légendaire tiré d'une épopée, appliqué à la technique. Les noms de Tolkien sont encombrés et étroitement surveillés (⚠) ; les épopées plus anciennes, toutes dans le domaine public, regorgent d'objets du même genre.
+
+**La matière de France :**
+- **Durendal** : défense, d'après l'épée incassable de Roland ; l'Andúril français
+- **Joyeuse** : marque de défense ou de sécurité, d'après l'épée de Charlemagne, qui changeait trente fois de couleur par jour
+- **Hauteclaire** : lasers (« haute et claire »), d'après l'épée d'Olivier
+- **Olifant** : alerte et détection précoce, d'après le cor que Roland sonna trop tard à Roncevaux
+- **Veillantif** : logistique, d'après le cheval de Roland
+- **Précieuse** : marque de sécurité, d'après l'épée de Baligant, l'ennemi de Roland
+- **Roncevaux** : lettre satirique, d'après la défaite d'une arrière-garde qui appela trop tard à l'aide
+
+**La matière de Bretagne :**
+- **Caliburn** : défense, d'après l'ancien nom d'Excalibur
+- **Clarent** : épée de paix ; maîtrise des armements
+- **Rhongomyniad** : systèmes à longue portée, d'après la lance d'Arthur
+- **Prydwen** : transport maritime, d'après le navire d'Arthur
+- **Carnwennan** : furtivité, d'après le poignard qui couvrait son porteur d'ombre
+- **Graal Bio** : longévité
+- ⚠ *Excalibur*, *Avalon*, *Camelot* : encombrés
+
+**Les épopées du Nord :**
+- **Sampo** : abondance et énergie, d'après le moulin magique du *Kalevala* qui moud sans fin grain, sel et or ; l'objet e/acc par excellence (⚠ *Sampo* est un assureur finlandais)
+- **Tarnkappe** : vie privée, d'après la cape d'invisibilité de Siegfried
+- **Balmung** : défense, d'après l'épée de Siegfried
+- **Hrunting** : marque de sécurité, d'après l'épée prêtée à Beowulf
+- **Heorot** : lieu ou cercle privé, d'après la grande salle
+- **Gramr** : systèmes reforgés, d'après l'épée refaite à partir de ses éclats (comme Andúril)
+
+**L'Irlande :**
+- **Claíomh Solais** : lasers, d'après l'« épée de lumière »
+- **Fragarach** : précision, d'après « la Répondeuse », l'épée qu'aucune armure n'arrêtait
+- **Lia Fáil** : identité et authentification, d'après la pierre qui criait sous le roi légitime
+- **Chaudron du Dagda** : technologies alimentaires, d'après le chaudron dont nul ne repartait affamé
+
+**L'Orient :**
+- **Simurgh** : aérospatial, d'après le grand oiseau du *Shahnameh*
+- **Cheval d'Ébène** : robotique et vol, d'après le cheval volant mécanique des *Mille et Une Nuits*
+- **Jam-e Jam** : capteurs et renseignement, d'après la coupe de Djamchid où se voyait le monde entier ; le palantír persan
+- **Ruyi Jingu Bang** : structures modulaires, d'après le bâton du Roi-Singe, qui grandit et rapetisse à volonté
+
+**L'Arioste et les épopées de la Renaissance :**
+- **Hippogriffe** : aérospatial
+- **Astolfo** : fonds d'expédition lunaire, d'après le chevalier qui vola jusqu'à la Lune pour rapporter la raison perdue de Roland
+- **L'Anneau d'Angélique** : vie privée et invisibilité
+- **Balisarda** : outils de coupe, d'après l'épée forgée pour trancher les enchantements

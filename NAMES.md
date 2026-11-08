@@ -1392,3 +1392,53 @@ Verne gave his engineers, financiers and visionaries an entire corporate world. 
 - **Épouvante Mobility**: one vehicle for land, sea and air
 - **Le Tour du Monde Express**: logistics with a guaranteed delivery time
 - **Voyages Extraordinaires**: a space-tourism agency, after the name of Verne's whole series
+
+---
+
+## LXXXIX. Legendary objects, in the manner of Palantir and Anduril
+
+*Palantír* and *Andúril* come from Tolkien. A cluster of tech companies is named from his works: Palantir, Anduril, Mithril Capital, Valar Ventures, Narya Capital, Erebor. The formula is a legendary object from an epic, applied to technology. Tolkien's names are crowded and closely watched (⚠); the older epics, all in the public domain, are full of the same kind of object.
+
+**The Matter of France:**
+- **Durendal**: defence, after Roland's unbreakable sword; the French Andúril
+- **Joyeuse**: a defence or security brand, after Charlemagne's sword, said to change colour thirty times a day
+- **Hauteclaire**: lasers ("high and bright"), after Oliver's sword
+- **Olifant**: alerting and early warning, after the horn Roland blew too late at Roncevaux
+- **Veillantif**: logistics, after Roland's horse
+- **Précieuse**: a security brand, after the sword of Baligant, Roland's enemy
+- **Roncevaux**: a satirical newsletter, after the defeat of a rearguard that called for help too late
+
+**Arthurian:**
+- **Caliburn**: defence, after the older name of Excalibur
+- **Clarent**: a sword of peace; arms control
+- **Rhongomyniad**: long-range systems, after Arthur's spear
+- **Prydwen**: shipping, after Arthur's ship
+- **Carnwennan**: stealth, after the dagger that cast a shadow over its bearer
+- **Grail Bio**: longevity
+- ⚠ *Excalibur*, *Avalon*, *Camelot*: crowded
+
+**Northern epics:**
+- **Sampo**: abundance and energy, after the magic mill of the *Kalevala* that grinds out grain, salt and gold without end; the e/acc object par excellence (⚠ *Sampo* is a Finnish insurer)
+- **Tarnkappe**: privacy, after Siegfried's cloak of invisibility
+- **Balmung**: defence, after Siegfried's sword
+- **Hrunting**: a security brand, after the sword lent to Beowulf
+- **Heorot**: a venue or members' club, after the great hall
+- **Gramr**: reforged systems, after the sword remade from shards (as Andúril was)
+
+**Irish:**
+- **Claíomh Solais**: lasers, after the "sword of light"
+- **Fragarach**: precision, after "the Answerer," the sword that no armour could stop
+- **Lia Fáil**: identity and authentication, after the stone that cried out under the rightful king
+- **Cauldron of the Dagda**: food tech, after the cauldron from which no one went away hungry
+
+**The East:**
+- **Simurgh**: aerospace, after the great bird of the *Shahnameh*
+- **Ebony Horse**: robotics and flight, after the mechanical flying horse of the *Thousand and One Nights*
+- **Jam-e Jam**: sensing and intelligence, after the cup of Jamshid in which the whole world could be seen; the Persian palantír
+- **Ruyi Jingu Bang**: modular structures, after the Monkey King's staff, which grows and shrinks at will
+
+**Ariosto and the Renaissance epics:**
+- **Hippogriff**: aerospace
+- **Astolfo**: a lunar expedition fund, after the knight who flew to the Moon to recover Orlando's lost wits
+- **Angelica's Ring**: privacy and invisibility
+- **Balisarda**: a cutting-tools brand, after the sword made to cut through enchantments

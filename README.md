@@ -23,6 +23,10 @@ That is: the headword, IPA pronunciation, part of speech, an etymology with the 
 
 Sample words: *nomophragm* (a rule that prevents the thing it governs), *epistolopause* (an open letter demanding a halt), *fibulophobia* (fear of paperclips), *campsis* (the knee of the curve), *eleutherergy* (free energy, in Greek), *bradyerie* (the whole establishment of delay), *protobathmic / deuterobathmic / tritobathmic* (the rungs of the Kardashev ladder), *chortotherapy* (touching grass).
 
+## Onomasticon
+
+[`NAMES.md`](NAMES.md) collects brand, media, polity and institution names drawn from the Lexicon. It covers eponyms (Landian, Kardashevian, Prigoginian…), startups, networks in the style of a live tech show, galactic admiralties, cosmist design bureaus, Renaissance guilds and more.
+
 ## Layout
 
 ```
